@@ -6,9 +6,11 @@ site_url = "https://www.masalazafran.com/"
 docs_dir = "recipes"
 
 [project.extra.tags]
+Vegetarian = "vegetarian"
+Baked = "baked"
+Fermented = "fermented"
 Side-dish = "side-dish"
 Mexican = "mexican"
-Vegetarian = "vegetarian"
 Beans = "beans"
 Bread = "bread"
 
