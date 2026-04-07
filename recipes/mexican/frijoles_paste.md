@@ -3,6 +3,7 @@ tags:
   - Mexican
   - Beans
   - Side-dish
+  - Vegetarian
 ---
 
 # Frijoles (paste)
