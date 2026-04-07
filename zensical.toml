@@ -1,6 +1,6 @@
 [project]
 site_name = "Masala-Azafran"
-site_description = "International recipes from an indian-spanish kitchen."
+site_description = "International recipes from an indo-hispanic kitchen."
 site_author = "Jtachan"
 site_url = "https://www.masalazafran.com/"
 docs_dir = "recipes"

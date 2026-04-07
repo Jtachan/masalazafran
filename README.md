@@ -1,6 +1,6 @@
 # Masala & Azafran
 
-International recipes cooked from an indian-spanish kitchen.
+International recipes cooked from an indo-hispanic kitchen.
 
 ## Categories
 
