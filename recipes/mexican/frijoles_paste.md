@@ -1,13 +1,20 @@
+---
+tags:
+  - Mexican
+  - Beans
+  - Side-dish
+---
+
 # Frijoles (paste)
 
 A delicious frijoles paste, perfect to use either with nachos, fajitas or tacos.
 This recipe is prepared for anyone to be able to cook it with ingredients available at any country.
 
-> Mexican, beans, side dish
+---
 
-## Ingredients
+**Ingredients**
 
-- _1 cann of black frijoles_, or any desired bean
+- _1 can of black frijoles_ (400 g) - or any desired bean
 - _Chicken broth_
 - _1 onion_
 - _Lard_ (optional)
@@ -18,9 +25,11 @@ This recipe is prepared for anyone to be able to cook it with ingredients availa
 - _Vegetable broth_ instead of chicken broth
 - _Aromatic fat_ instead of lard, for example use mustard oil
 
-## Steps
+---
 
-1. Open the canned beans and put them in a food processor (without the liquid of inside the cann). 
+**Steps**
+
+1. Open the canned beans and put them in a food processor (without the liquid of inside the can). 
 Add also the chicken broth until all the beans are barely covered.
 If the broth is powder, add water with the same proportion.
 

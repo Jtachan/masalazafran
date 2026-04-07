@@ -15,24 +15,32 @@ E.g.: spanish, indian, mexican, french, etc.
 The recipes are written all in pure markdown, defined with a specific structure:
 
 ```markdown
+---
+tags:
+  - TagA
+  - TagB
+---
+
 # Recipe name
 
 A description and/or introduction of the recipe.
 
 ![Image of the recipe]
 
-> Origin of the recipe like Spanish, other tags for the recipe separated by comma
+---
 
-## Ingredients
+**Ingredients**
 
-- _Ingredient A_ 200g
+- _Ingredient A_ (200g)
 - _Ingredient B_ - with some comment
 
 **Veg. Alternative**
 
 - _Vegan ingredient C_ substituting ingredient B
 
-## Steps
+---
+
+**Steps**
 
 1. Reading the recipe
 2. Preparing the recipe
