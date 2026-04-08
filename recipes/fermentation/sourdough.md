@@ -39,5 +39,5 @@ Feed it again in the morning a do the _float test_<sup>1</sup>.
 
 !!! Notes
     1. The _float test_ is just to put a small piece of the dough in water to see if it floats. A good active dough contains CO<sub>2</sub> trapped within its glutenous web, making it float.
-    2. The _windowpane test_ requires to grab a pinch of the dough (size of a ping-pong ball) and then stretch it to make a tiny pizza. Let it rest, then pick up the dough and try to stretch in the air with your fingers. The test is successful if the stretching results in a thin layer of dough that is translucid and doesn't break. This indicates the dough is smooth and was knitted enough.
+    2. The _windowpane test_ requires to grab a pinch of the dough (size of a ping-pong ball) and then stretch it to make a tiny pizza. Let it rest, then pick up the dough and try to stretch in the air with your fingers. The test is successful if the stretching results in a thin layer of dough that is translucid and doesn't break. This indicates the dough is smooth and was kneaded enough.
     3. The _poke test_ defines whether the dough is ready to be baked. Gently press your finger into the dough on the top. If the dough springs back quickly, it's underproofed. If it springs back very slowly, it's properly proofed and ready to bake. Finally, if it never springs back, the dough is overproofed.
