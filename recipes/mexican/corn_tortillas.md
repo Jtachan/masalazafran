@@ -1,7 +1,8 @@
 ---
 tags:
-  - Mexican
   - Bread
+  - Dough
+  - Mexican
   - Vegetarian
 ---
 

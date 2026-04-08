@@ -1,6 +1,7 @@
 ---
 tags:
   - Bread
+  - Dough
   - Fermentation
   - Oven
 ---
