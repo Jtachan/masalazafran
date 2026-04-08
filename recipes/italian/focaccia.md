@@ -2,7 +2,6 @@
 tags:
   - Bread
   - Dough
-  - Easy
   - Fermentation
   - Italian
   - Mediterranean

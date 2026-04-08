@@ -1,7 +1,6 @@
 ---
 tags:
   - Dough
-  - Easy
   - Italian
   - Oven
   - Vegetarian

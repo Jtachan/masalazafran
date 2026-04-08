@@ -1,7 +1,6 @@
 ---
 tags:
   - Bread
-  - Easy
   - Indian
 ---
 
