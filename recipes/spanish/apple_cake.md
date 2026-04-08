@@ -18,9 +18,9 @@ The original recipe my grandma used to make had a cup of yoghurt as the measurem
 - _Apples_ (4)
 - _Eggs_ (2 medium)
 - _Milk_ (200 mL)
-- _Flour_
-- _Neutral oil_ (120 mL)
-- _Sugar_
+- _Flour_ (100 g)
+- _Neutral oil_ (100 mL)
+- _Sugar_ (100 g)
 - _Cinnamon_
 - _Jam/Confiture_ — Blueberry jam is recommended.
 
