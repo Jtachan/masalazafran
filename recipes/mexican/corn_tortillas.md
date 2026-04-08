@@ -17,7 +17,7 @@ The corn tortillas are the true mexican bread, always perfect to have a taco-nig
 **Ingredients**
 
 - _Corn flour_ (2 parts)
-- _Hot water_ (1 part) and _tap water_ (1 part)
+- _Hot water_ (1 part) and _cold water_ (1 part)
 - _Salt_
 
 !!! Notes
