@@ -17,3 +17,6 @@ Here you will find easy and tasty recipes from different cultures.
     All recipes are organized by the **country/culture** that invented them. 
     However, there might be recipes that don't have any specific cultural origin (like the [sourdough recipe](global/sourdough.md)).
     These recipes are organized as "Global" to define they belong culturally to the whole world.
+
+??? question inline "Why the recipes don't have pictures?"
+    All recipes here have been tested by us. If they don't have a picture yet is because we couldn't make a photo that would honor the recipe. Be patient, all recipes will have their own picture.
