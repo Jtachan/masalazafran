@@ -33,7 +33,7 @@ The corn tortillas are the true mexican bread, always perfect to have a taco-nig
 2. Add the boiling water and mix with a fork until. 
 After all the water has been absorbed by the flour, add the tap water and mix with your hand until everything is integrated into the same dough.
 
-3. Cover the dough and let it sit for 10 minutes.
+3. Cover the dough and let it sit for :clock: 10 minutes.
 
 4. Divide the dough in balls of the same size: 30 grams for small-size tortillas and 50 grams for medium-size.
 The corn tortillas are quite filling, so I don't recommend making them bigger than 50 grams.
