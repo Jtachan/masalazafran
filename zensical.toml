@@ -6,13 +6,16 @@ site_url = "https://www.masalazafran.com/"
 docs_dir = "recipes"
 
 [project.extra.tags]
-Vegetarian = "vegetarian"
-Baked = "baked"
-Fermented = "fermented"
-Side-dish = "side-dish"
-Mexican = "mexican"
 Beans = "beans"
+Easy = "easy"
+Fermented = "fermented"
 Bread = "bread"
+Indian = "indian"
+Side-dish = "side-dish"
+Vegetarian = "vegetarian"
+Mexican = "mexican"
+Oven = "oven"
+Italian = "italian"
 
 [project.theme]
 language = "en"
