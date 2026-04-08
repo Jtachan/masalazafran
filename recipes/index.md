@@ -7,9 +7,13 @@ Here you will find easy and tasty recipes from different cultures.
 
 ??? question inline "How do I search for a recipe?"
     There are multiple ways to search for something.
-    The recommended way is to use the search bar to either:
+    The recommended way is to use the **search bar** to either:
     <ol>
     <li>Find a recipe by its name.</li>
     <li>Select one or multiple tags to discover new recipes.</li>
     </ol>
 
+??? question inline "How are the recipes organized?"
+    All recipes are organized by the **country/culture** that invented them. 
+    However, there might be recipes that don't have any specific cultural origin (like the [sourdough recipe](global/sourdough.md)).
+    These recipes are organized as "Global" to define they belong culturally to the whole world.

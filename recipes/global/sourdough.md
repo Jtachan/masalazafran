@@ -1,7 +1,7 @@
 ---
 tags:
   - Bread
-  - Fermented
+  - Fermentation
   - Oven
 ---
 
