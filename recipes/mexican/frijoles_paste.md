@@ -2,7 +2,6 @@
 tags:
   - Beans
   - Mexican
-  - Side-dish
   - Vegetarian
 ---
 

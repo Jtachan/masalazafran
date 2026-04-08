@@ -3,7 +3,6 @@ tags:
   - Greek
   - Mediterranean
   - Sauce
-  - Side-dish
   - Vegetarian
 ---
 
