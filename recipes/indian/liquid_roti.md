@@ -29,5 +29,5 @@ A food-processor will be of help here at the first step
 4. Prepare a flat pan with some oil and heat it up on medium heat on the stove.
 5. Spread a portion of the mix on the pan and let it cook for :clock: 1.5~2 minutes on each side. Repeat this step until all the mix was used.
 
-!!! Hint
+!!! Tip
     Other ingredients could be added at step 3, for example, some herbs.
