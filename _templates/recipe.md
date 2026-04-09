@@ -14,7 +14,7 @@ A description and/or introduction of the recipe.
 
 **Ingredients**
 
-- _Ingredient A_ (200g)
+- _Ingredient A_ (200 g)
 - _Ingredient B_ - with some comment
 
 **Veg. Alternative**
