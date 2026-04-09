@@ -2,6 +2,7 @@
 tags:
   - Asian
   - Dough
+  - Dumplings
   - Japanese
   - Vegetarian
   - Wrap
