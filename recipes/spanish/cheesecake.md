@@ -2,8 +2,11 @@
 tags:
   - Cake
   - Dessert
+  - Mediterranean
   - No-bake
+  - Spanish
   - Sweet
+  - Traditional
 ---
 
 # Spanish cheesecake (Cuajada & queso)

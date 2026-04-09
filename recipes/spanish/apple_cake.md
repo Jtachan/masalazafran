@@ -2,6 +2,8 @@
 tags:
   - Cake
   - Dessert
+  - Mediterranean
+  - Spanish
   - Sweet
   - Vegetarian
 ---
