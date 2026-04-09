@@ -33,8 +33,6 @@ features = [
     "header.autohide",
     # https://zensical.org/docs/setup/navigation/#navigation-expansion
     "navigation.expand",
-    # https://zensical.org/docs/setup/footer/#navigation
-    "navigation.footer",
     # https://zensical.org/docs/setup/navigation/#section-index-pages
     "navigation.indexes",
     # https://zensical.org/docs/setup/navigation/#instant-navigation
