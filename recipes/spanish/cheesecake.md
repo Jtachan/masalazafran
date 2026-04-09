@@ -33,5 +33,5 @@ This is one of those recipes that you must be patient and follow the instruction
 3. Disolve the gelatin in 200 mL of warm milk.
 4. In the same milk mix well the egg yolks and the cream cheese.
 5. Heat up the rest of the milk with the lemon beel. Whenever it is going to start boiling, lower the heat to medium-low.
-6. Remove the lemon peel and add the suggar and the other 200 mL of milk with the other ingredients. 
+6. Remove the lemon peel and add the sugar and the other 200 mL of milk with the other ingredients. 
 7. Pour the mix over the cookie-base made before. Let it chill for :clock: 30~40 minutes at room temperature, then cool it in the fridge for at least :clock: 4 hours.
