@@ -1,3 +1,7 @@
+---
+title: "French"
+---
+
 # Recipes from France
 
 | Recipe | Tags |

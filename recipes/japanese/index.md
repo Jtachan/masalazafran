@@ -1,3 +1,7 @@
+---
+title: "Japanese"
+---
+
 # Recipes from Japan
 
 | Recipe | Tags |

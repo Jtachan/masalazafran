@@ -1,3 +1,7 @@
+---
+title: "Greek"
+---
+
 # Recipes from Greece
 
 | Recipe | Tags |

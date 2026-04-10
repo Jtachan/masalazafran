@@ -1,3 +1,7 @@
+---
+title: "Global"
+---
+
 # Recipes from everyone
 
 | Recipe | Tags |

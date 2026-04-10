@@ -1,3 +1,7 @@
+---
+title: "Mexican"
+---
+
 # Recipes from Mexico
 
 The mexican cuisine is known for their corn-tortillas (in all shapes) together with _carnitas_ and frijoles.

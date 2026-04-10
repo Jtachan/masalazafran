@@ -1,3 +1,7 @@
+---
+title: "Czech"
+---
+
 # Recipes from Czech Republic
 
 | Recipe | Tags |

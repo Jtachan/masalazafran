@@ -1,3 +1,7 @@
+---
+title: "Indian"
+---
+
 # Recipes from India
 
 | Recipe | Tags |

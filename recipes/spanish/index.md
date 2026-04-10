@@ -1,3 +1,7 @@
+---
+title: "Spanish"
+---
+
 # Recipes from Spain
 
 The spanish recipes look for simplicity while using fresh ingredients as the main source of flavor.
