@@ -1,4 +1,4 @@
-# Masala & Azafran
+# Home
 
 Welcome to _Masala & Azafran_, an Indo-Hispanic cookbook with recipes from all around the globe.
 Here you will find easy and tasty recipes from different cultures.

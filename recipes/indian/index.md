@@ -1,3 +1,3 @@
 # Recipes from India
 
-- [Liquid roti](liquid_roti.md)
+- [Liquid Garlic Roti](liquid_roti.md)

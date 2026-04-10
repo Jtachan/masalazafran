@@ -35,7 +35,7 @@ Add also the chicken broth until all the beans are barely covered.
 If the broth is powder, add water with the same proportion.
 
 2. Process (or blend) all the beans until a paste is created.
-The final process is more enjoyable if it is still a little bit ckuncky.
+The final process is more enjoyable if it is still a little bit ckunky.
 
 3. Chop the onion in small pieces and fry it with some oil at medium heat. Be patient and let it brown.
 
