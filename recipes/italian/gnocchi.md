@@ -1,6 +1,7 @@
 ---
 tags:
   - Dough
+  - Pasta
   - Italian
   - Mediterranean
   - Vegetarian

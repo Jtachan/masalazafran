@@ -1,3 +1,5 @@
 # Recipes from Greece
 
-- [Tzatziki](tzatziki.md)
+| Recipe | Tags |
+| :--- | :--- |
+| [Tzatziki](tzatziki.md) | Sauce, Vegetarian |

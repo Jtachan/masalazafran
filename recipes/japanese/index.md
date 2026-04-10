@@ -1,3 +1,5 @@
 # Recipes from Japan
 
-- [Gyoza wraps](gyoza_wrapper.md)
+| Recipe | Tags |
+| :--- | :--- |
+| [Gyoza wraps](gyoza_wrapper.md) | Dough, Dumplings, Vegetarian,  Wrap |

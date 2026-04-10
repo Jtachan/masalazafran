@@ -1,4 +1,6 @@
 # Recipes from everyone
 
-- [Confiture (Kiwi)](kiwi_confiture.md)
-- [Sourdough](sourdough.md)
+| Recipe | Tags |
+| :--- | :--- |
+|[Confiture (Kiwi)](kiwi_confiture.md)|Jam, Vegetarian|
+|[Sourdough](sourdough.md)| Bread, Dough, Fermentation, Oven |

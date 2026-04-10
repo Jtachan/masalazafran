@@ -1,4 +1,6 @@
 # Recipes from Czech Republic
 
-- [Goulash](goulash.md)
-- [Czech dumpling](knedliky.md)
+| Recipe | Tags |
+| :--- | :--- |
+| [Goulash](goulash.md) | One-pot, Stew |
+| [Czech dumpling](knedliky.md) | Bread, Dough, Dumplings, Leftover-saving, Side-dish |

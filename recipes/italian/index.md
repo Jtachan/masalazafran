@@ -1,8 +1,10 @@
 # Recipes from Italy
 
-- [Focaccia](focaccia.md)
-- [Fresh pasta](fresh_pasta.md)
-- [Green pasta](green_pasta.md)
-- [Gnocchi](gnocchi.md)
-- [Pizza dough](pizza_dough.md)
-- [Tiramisu](tiramisu.md)
+| Recipe | Tags |
+| :--- | :--- |
+| [Focaccia](focaccia.md) | Bread, Dough, Fermentation, Oven, Vegetarian |
+| [Fresh pasta](fresh_pasta.md) | Dough, Pasta, Vegetarian |
+| [Green pasta](green_pasta.md) | Dough, Pasta, Vegetarian |
+| [Gnocchi](gnocchi.md) | Dough, Pasta, Vegetarian|
+| [Pizza dough](pizza_dough.md) | Dough, Oven, Vegetarian |
+| [Tiramisu](tiramisu.md) | Dessert, Sweet, Vegetarian |

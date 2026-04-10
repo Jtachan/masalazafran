@@ -2,4 +2,6 @@
 
 Small description
 
-- List of the recipe files
+| Recipe | Tags |
+| :--- | :--- |
+|        |      |
