@@ -2,6 +2,7 @@
 tags:
   - Beans
   - Mexican
+  - Sauce
   - Vegetarian
 ---
 
