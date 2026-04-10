@@ -8,7 +8,7 @@ tags:
 
 A description and/or introduction of the recipe.
 
-![Image of the recipe]
+<img alt="Recipe image" src="../_imgs/recipe.jpeg" width=500>
 
 ---
 

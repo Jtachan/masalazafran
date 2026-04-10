@@ -11,7 +11,7 @@ tags:
 
 A perfect dessert which becomes more tasty if you let it rest overnight before eating it.
 
-![Tiramisu image](../_imgs/tiramisu.jpeg)
+<img alt="Tiramisu image" src="../_imgs/tiramisu.jpeg" width=500>
 
 ---
 
