@@ -10,7 +10,7 @@ tags:
 
 The corn tortillas are the true mexican bread, always perfect to have a taco-night.
 
-!!! tip
+!!! Tip
     Cook some [**frijoles paste**](frijoles_paste.md) for your tortillas.
 
 ---

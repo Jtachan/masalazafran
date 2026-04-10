@@ -4,5 +4,5 @@
 - [Fresh pasta](fresh_pasta.md)
 - [Green pasta](green_pasta.md)
 - [Gnocchi](gnocchi.md)
-- [Pizza base](pizza_base.md)
+- [Pizza dough](pizza_dough.md)
 - [Tiramisu](tiramisu.md)
