@@ -9,7 +9,9 @@ tags:
 
 # Tiramisu
 
-A perfect dessert which becomes more tasty if you let it rest overnight before eating it. 
+A perfect dessert which becomes more tasty if you let it rest overnight before eating it.
+
+![Tiramisu image](../_imgs/tiramisu.jpeg)
 
 ---
 
