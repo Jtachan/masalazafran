@@ -43,5 +43,5 @@ For the filling:
 4. Pour over the dough the eggs mix with the filling ingredients and the cheese.
 5. Cook for :clock: 30~35 minutes. You can optionally lower the temperature to 150 °C. Let it rest :clock: 5 minutes before serving.
 
-!!! Hint
+!!! Tip
     After baking, garnish the quiche with chives and/or Parmesan.
