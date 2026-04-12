@@ -6,4 +6,4 @@ title: "Japanese"
 
 | Recipe | Tags |
 | :--- | :--- |
-| [Gyoza wraps](gyoza_wrapper.md) | Dough, Dumplings, Vegetarian,  Wrap |
+| [Gyoza wraps](gyoza_wrapper.md) | Dough, Dumplings, Wrap |

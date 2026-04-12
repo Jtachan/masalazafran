@@ -4,6 +4,7 @@ tags:
   - Mexican
   - Sauce
   - Vegetarian
+  - Side-dish
 ---
 
 # Frijoles (paste)

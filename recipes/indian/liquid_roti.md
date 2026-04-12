@@ -2,8 +2,8 @@
 tags:
   - Asian
   - Bread
+  - Dough
   - Indian
-  - Vegetarian
 ---
 
 # Liquid Garlic Roti

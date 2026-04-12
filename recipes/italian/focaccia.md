@@ -6,12 +6,11 @@ tags:
   - Italian
   - Mediterranean
   - Oven
-  - Vegetarian
 ---
 
 # Focaccia
 
-The focaccia is an italian bread that is prepared with a slow fermentation.
+The focaccia is an Italian bread that is prepared with a slow fermentation.
 It is very easy to prepare and requires no kneading for the dough.
 Once prepared, it is perfect for eating as a sandwich or as a dip with sauces.
 

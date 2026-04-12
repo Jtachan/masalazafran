@@ -3,7 +3,6 @@ tags:
   - Bread
   - Dough
   - Mexican
-  - Vegetarian
 ---
 
 # Corn Tortillas

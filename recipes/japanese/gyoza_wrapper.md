@@ -4,7 +4,6 @@ tags:
   - Dough
   - Dumplings
   - Japanese
-  - Vegetarian
   - Wrap
 ---
 

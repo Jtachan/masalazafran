@@ -6,4 +6,4 @@ title: "Indian"
 
 | Recipe | Tags |
 | :--- | :--- |
-| [Liquid Garlic Roti](liquid_roti.md) | Bread, Vegetarian |
+| [Liquid Garlic Roti](liquid_roti.md) | Bread, Dough |

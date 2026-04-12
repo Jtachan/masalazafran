@@ -3,7 +3,6 @@ tags:
   - Dough
   - Italian
   - Oven
-  - Vegetarian
 title: "Pizza Dough"
 ---
 

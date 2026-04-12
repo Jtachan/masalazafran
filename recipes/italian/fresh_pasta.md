@@ -3,7 +3,6 @@ tags:
   - Dough
   - Italian
   - Pasta
-  - Vegetarian
 ---
 
 # Fresh Pasta
