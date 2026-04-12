@@ -12,7 +12,7 @@ tags:
 The Lorraine (french) quiche is a great dish to take to a potluck to share with others.
 Easy to cook and tasty.
 
-<img alt="Recipe image" src="../_imgs/quiche.jpeg" width="500">
+<img alt="Lorraine Quiche" src="../../_imgs/quiche.jpeg" width=500>
 
 ---
 
