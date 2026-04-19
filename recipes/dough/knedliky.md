@@ -6,7 +6,7 @@ tags:
   - Dumplings
   - Leftover-saving
   - Side-dish
-title: "Bread Dumplings"
+title: "Knedliky (Bread Dumplings)"
 ---
 
 # Knedliky (Czech Bread Dumplings)

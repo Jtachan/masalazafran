@@ -1,4 +1,5 @@
 ---
+title: "Flan"
 tags:
   - Dessert
   - Mediterranean
@@ -8,7 +9,7 @@ tags:
   - Vegetarian
 ---
 
-# Spanish Egg Flan
+# Flan (Spanish Egg Custard)
 
 The 'flan' is actually translated as 'pudding' in English, however not all puddings are real flans.
 This is the traditional recipe, which could be cooked in the over or even in a cookpot.

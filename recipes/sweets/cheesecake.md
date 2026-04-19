@@ -1,4 +1,5 @@
 ---
+title: "Abuela's cheesecake"
 tags:
   - Cake
   - Dessert
@@ -9,7 +10,7 @@ tags:
   - Traditional
 ---
 
-# Spanish cheesecake (Cuajada & queso)
+# Spanish Abuela's Cheesecake (Cuajada & queso)
 
 The traditional version of the Spanish cheesecake (not to confuse with the basque cheesecake) is done without an oven.
 This is one of those recipes that you must be patient and follow the instructions.

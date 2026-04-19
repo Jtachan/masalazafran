@@ -1,20 +1,20 @@
 ---
-title: "Bread"
+title: "Dough"
 ---
 
-# Breads and doughs
+# Breads & Doughs
 
 ## Breads
 
 | Recipe | Origin |
 | :--- | :--- |
-| [Knedliky (Bread Dumplings)](knedliky.md) | Czech |
-| [Sourdough](sourdough.md) | — |
-| [Liquid Garlic Roti](liquid_roti.md) | Indian |
-| [Focaccia](focaccia.md) | Italian |
-| [Pizza dough](pizza_dough.md) | Italian |
-| [Gyoza wraps](gyoza_wrapper.md) | Japanese |
 | [Corn tortillas](corn_tortillas.md) | Mexican |
+| [Focaccia](focaccia.md) | Italian |
+| [Gyoza wraps](gyoza_wrapper.md) | Japanese |
+| [Knedliky (Bread Dumplings)](knedliky.md) | Czech |
+| [Liquid Garlic Roti](liquid_roti.md) | Indian |
+| [Pizza dough](pizza_dough.md) | Italian |
+| [Sourdough](sourdough.md) | — |
 
 ## Pasta
 

@@ -6,7 +6,7 @@ title: "Sweets"
 
 | Recipe | Origin |
 | :--- | :--- |
-| [Tiramisu](tiramisu.md) | Italian |
-| [Flan](flan.md) | Spanish |
+| [Abuela's Apple Cake](applecake.md) | Spanish |
 | [Abuela's Cheesecake](cheesecake.md) | Spanish |
-| [Abuela's Applecake](applecake.md) | Spanish |
+| [Flan](flan.md) | Spanish |
+| [Tiramisu](tiramisu.md) | Italian |

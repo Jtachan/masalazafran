@@ -3,10 +3,10 @@ tags:
   - Global
   - Jam
   - Vegetarian
-title: Jam/Confiture (Kiwi)
+title: Kiwi Confiture
 ---
 
-# Kiwi-Jam
+# Kiwi Jam/Confiture
 
 A sweet and sour jam, perfect for toasts with butter.
 

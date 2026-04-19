@@ -6,5 +6,5 @@ title: "Sauces"
 
 | Recipe | Origin |
 | :--- | :--- |
-| [Tzatziki](tzatziki.md) | Greek |
 | [Guacamole](guacamole.md) | Mexican |
+| [Tzatziki](tzatziki.md) | Greek |

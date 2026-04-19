@@ -1,4 +1,5 @@
 ---
+title: "Abuela's apple cake"
 tags:
   - Cake
   - Dessert
@@ -8,7 +9,7 @@ tags:
   - Vegetarian
 ---
 
-# Apple Cake
+# Spanish Abuela's Apple Cake
 
 Simple apple cake which can be prepared with only a blender.
 The original recipe my grandma used to make had a cup of yoghurt as the measurement for all the liquids.

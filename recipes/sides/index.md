@@ -8,8 +8,8 @@ title: "Sides"
 
 | Recipe | Origin |
 | :--- | :--- |
-| [Quiche](quiche.md) | French |
 | [Potato au Gratin](potato_au_gratin.md) | French |
+| [Quiche](quiche.md) | French |
 
 ## Tapas
 
