@@ -7,10 +7,10 @@ Click on the flag to jump directly to the cuisine you want.
 
 | Cuisine | Countries |
 | :--- | :---: |
-| Mediterranean | [:flag_es:{title="Spain"}](spanish/index.md) [:flag_it:{title="Italy"}](italian/index.md) [:flag_fr:{title="France"}](french/index.md) [:flag_gr:{title="Greece"}](greek/index.md) |
-| Asian | [:flag_in:{title="India"}](indian/index.md) [:flag_jp:{title="Japan"}](japanese/index.md) |
-| Latin-American | [:flag_mx:{title="Mexico"}](mexican/index.md)|
-| Nordic | [:flag_cz:{title="Czech Republic"}](czech/index.md)|
+| Mediterranean | [:flag_es:{title="Spain"}](spanish_index.md) [:flag_it:{title="Italy"}](italian_index.md) [:flag_fr:{title="France"}](french_index.md) [:flag_gr:{title="Greece"}](greek_index.md) |
+| Asian | [:flag_in:{title="India"}](indian_index.md) [:flag_jp:{title="Japan"}](japanese_index.md) |
+| Latin-American | [:flag_mx:{title="Mexico"}](mexican_index.md)|
+| Nordic | [:flag_cz:{title="Czech Republic"}](czech_index.md)|
 
 ## Q&A
 
@@ -21,11 +21,6 @@ Click on the flag to jump directly to the cuisine you want.
     <li>Find a recipe by its name.</li>
     <li>Select one or multiple tags to discover new recipes.</li>
     </ol>
-
-??? question inline "How are the recipes organized?"
-    All recipes are organized by the **country/culture** that invented them.
-    However, there might be recipes that don't have any specific cultural origin (like the [sourdough recipe](global/sourdough.md)).
-    These recipes are organized as "Global" to define they belong culturally to the whole world.
 
 ??? question inline "Why the recipes don't have pictures?"
     All recipes here have been tested by us.

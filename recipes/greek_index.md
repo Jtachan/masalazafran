@@ -6,4 +6,4 @@ title: "Greek"
 
 | Recipe | Tags |
 | :--- | :--- |
-| [Tzatziki](tzatziki.md) | Sauce, Vegetarian |
+| [Tzatziki](sauce/tzatziki.md) | Sauce, Vegetarian |

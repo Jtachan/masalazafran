@@ -1,9 +1,0 @@
----
-title: "Japanese"
----
-
-# Recipes from Japan
-
-| Recipe | Tags |
-| :--- | :--- |
-| [Gyoza wraps](gyoza_wrapper.md) | Dough, Dumplings, Wrap |

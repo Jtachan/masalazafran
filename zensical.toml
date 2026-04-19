@@ -9,6 +9,50 @@ extra_javascript = [
     "tablesort.js"
 ]
 
+nav = [
+  {"Home" = "index.md"},
+  {"Dough" = [
+    "dough/index.md",
+    "dough/corn_tortillas.md",
+    "dough/focaccia.md",
+    "dough/fresh_pasta.md",
+    "dough/gnocchi.md",
+    "dough/green_pasta.md",
+    "dough/gyoza_wrapper.md",
+    "dough/knedliky.md",
+    "dough/liquid_roti.md",
+    "dough/pizza_dough.md",
+    "dough/sourdough.md",
+  ]},
+  {"Preserves" = [
+    "preserves/index.md",
+    "preserves/kiwi_confiture.md",
+  ]},
+  {"Sauces" = [
+    "sauce/index.md",
+    "sauce/guacamole.md",
+    "sauce/tzatziki.md",
+  ]},
+  {"Sides" = [
+    "sides/index.md",
+    "sides/frijoles_paste.md",
+    "sides/migas.md",
+    "sides/potato_au_gratin.md",
+    "sides/quiche.md",
+  ]},
+  {"Stews" = [
+    "stew/index.md",
+    "stew/goulash.md",
+  ]},
+  {"Sweets" = [
+    "sweets/index.md",
+    "sweets/applecake.md",
+    "sweets/cheesecake.md",
+    "sweets/flan.md",
+    "sweets/tiramisu.md",
+  ]},
+]
+
 [project.markdown_extensions.pymdownx.details]
 [project.markdown_extensions.tables]
 [project.markdown_extensions.attr_list]

@@ -43,3 +43,6 @@ The final process is more enjoyable if it is still a little bit ckunky.
 4. Once the onion is ready, add the lard or any aromatic fat (which will give a lot of flavor) and the paste of frijoles once the lard has melted.
 Add also all the spices to taste: salt, cumin, coriander, etc.
 Let it all cook for about 10 minutes, stirring from time to time.
+
+!!! Tip
+    Garnish the paste with some cottage cheese.
