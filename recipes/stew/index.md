@@ -6,4 +6,4 @@ title: "Stew"
 
 | Recipe | Origin |
 | :--- | :--- |
-| [Goulash](goulash.md) | Czech |
+| [Goulash](goulash.md) | Czech :flag_cz: |
