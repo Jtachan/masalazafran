@@ -11,6 +11,8 @@ The guac is one of the most iconics sauces from Mexico.
 This recipe might not be "truly original", but it is an easy and enjoyable recipe.
 Having a food-processor will be of great help here.
 
+<img alt="Guacamole" src="../../_imgs/guacamole.jpeg" width=500>
+
 ---
 
 **Ingredients**

@@ -3,7 +3,7 @@ tags:
   - Mediterranean
   - French
   - Savory
-  - Main-dish
+  - Side-dish
   - Oven
 ---
 

@@ -12,6 +12,8 @@ tags:
 A delicious frijoles paste, perfect to use either with nachos, fajitas or tacos.
 This recipe is prepared for anyone to be able to cook it with ingredients available at any country.
 
+<img alt="Recipe image" src="../../_imgs/frijoles.jpeg" width=500>
+
 ---
 
 **Ingredients**
