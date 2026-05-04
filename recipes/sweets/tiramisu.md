@@ -13,9 +13,6 @@ A perfect dessert which becomes more tasty if you let it rest overnight before e
 
 <img alt="Tiramisu image" src="../_imgs/tiramisu.jpeg" width=500>
 
-!!! Note
-    Path goes only one level up
-
 ---
 
 **Ingredients**
