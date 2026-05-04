@@ -2,4 +2,5 @@
 
 | Recipe | Tags |
 | :--- | :--- |
-| [Gyoza wraps](./dough/gyoza_wrapper.md) | Asian, Dough, Dumplings, Japanese, Wrap |
+| [Liquid Garlic Roti](./dough/liquid_roti.md) | Asian, Bread, Dough, Indian |
+| [Naan](./dough/naan.md) | Asian, Bread, Dough, Indian |

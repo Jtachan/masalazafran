@@ -11,6 +11,7 @@ title: "Dough"
 | [Corn tortillas](corn_tortillas.md) | Mexican :flag_mx: |
 | [Focaccia](focaccia.md) | Italian :flag_it: |
 | [Gyoza wraps](gyoza_wrapper.md) | Japanese :flag_jp: |
+| [Naan](./dough/naan.md) | Indian :flag_in: |
 | [Knedliky (Bread Dumplings)](knedliky.md) | Czech :flag_cz: |
 | [Liquid Garlic Roti](liquid_roti.md) | Indian :flag_in: |
 | [Pizza dough](pizza_dough.md) | Italian :flag_it: |

@@ -2,4 +2,4 @@
 
 | Recipe | Tags |
 | :--- | :--- |
-| [Liquid Garlic Roti](./dough/liquid_roti.md) | Asian, Bread, Dough, Indian |
+| [Gyoza wraps](./dough/gyoza_wrapper.md) | Asian, Dough, Dumplings, Japanese, Wrap |
