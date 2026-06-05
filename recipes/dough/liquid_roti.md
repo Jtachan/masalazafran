@@ -23,6 +23,11 @@ A food-processor will be of help here at the first step
 - _Garlic_ (4~6 cloves)
 - _Salt_
 
+!!! Note
+    Beware of the type of flour you use, as each type hidrates differently.
+    The mix should have a liquid-like viscosity.
+    Consider adding a different ammount of water based on the used flour.
+
 ---
 
 **Steps**
