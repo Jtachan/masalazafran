@@ -11,7 +11,7 @@ tags:
 Fluffy flat indian bread, perfect to accompany any indian meal.
 The name 'naan' already means 'bread'.
 
-<img alt="Recipe image" src="../_imgs/naan.jpeg" width=500>
+<img alt="Recipe image" src="../_imgs/naan.jpg" width=500>
 
 !!! Tip
     You can make other types of naan by garnishing it before cooking it.
