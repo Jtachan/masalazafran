@@ -12,6 +12,8 @@ tags:
 Easy and quick bread, perfect to accompany by curry.
 A food-processor will be of help here at the first step
 
+<img alt="Recipe image" src="../_imgs/liquid_roti.jpeg" width=500>
+
 ---
 
 **Ingredients**
