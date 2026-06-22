@@ -12,6 +12,8 @@ tags:
 This is a very easy **three ingredients** recipe.
 It is perfect to create any ice-cream flavor by using just jam or confiture.
 
+<img alt="Recipe image" src="../_imgs/ice_cream_jam.jpg" width=500>
+
 ---
 
 **Ingredients**
