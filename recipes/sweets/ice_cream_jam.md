@@ -4,6 +4,7 @@ tags:
   - Dessert
   - Sweet
   - Cold
+  - Ice
   - Vegetarian
 ---
 
@@ -21,6 +22,9 @@ It is perfect to create any ice-cream flavor by using just jam or confiture.
 - _Condensed milk_ (200 mL)
 - _Strawberry jam_ (100 g)
 - _Whipping cream_ (200 mL)
+
+!!! Note
+    The condensed milk can is usually 400 mL, but I feel like using only half the can is enough ice-cream.
 
 ---
 
