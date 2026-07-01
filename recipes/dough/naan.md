@@ -1,4 +1,5 @@
 ---
+title: Naan
 tags:
   - Asian
   - Bread
@@ -6,7 +7,7 @@ tags:
   - Indian
 ---
 
-# Naan
+# Naan (Indian flat bread)
 
 Fluffy flat indian bread, perfect to accompany any indian meal.
 The name 'naan' already means 'bread'.
