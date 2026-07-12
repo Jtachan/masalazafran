@@ -8,6 +8,9 @@ extra_javascript = [
     "https://unpkg.com/tablesort@5.3.0/dist/tablesort.min.js",
     "tablesort.js"
 ]
+extra_css = [
+    "stylesheet.css"
+]
 
 nav = [
   {"Home" = "index.md"},
@@ -85,9 +88,4 @@ features = [
     "toc.follow",
     "toc.follow",
     "toc.integrate",
-]
-
-palette = [
-    { scheme = "default", toggle = { icon = "lucide/sun", name = "Switch to dark mode" } },
-    { scheme = "slate", toggle = { icon = "lucide/moon", name = "Switch to light mode" } },
 ]

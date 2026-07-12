@@ -7,11 +7,11 @@ tags:
 
 # Goulash
 
-While there are different goulash versions among cultures, the czech one is the tastiest one.
+While there are different goulash versions among cultures, the Czech one is the tastiest one.
 This recipe should not be done in small quantities, and using a pressure-cook (6 L) is helpful.
 
 !!! Hint
-    This recipe is commonly served with the [Knedliky](../bread/knedliky.md), a while-boiled bread which is a central pillar of the Czech cuisine.
+    This recipe is commonly served with the [Knedliky](../dough/knedliky.md), a while-boiled bread which is a central pillar of the Czech cuisine.
 
 ---
 

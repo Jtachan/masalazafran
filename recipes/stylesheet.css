@@ -1,0 +1,137 @@
+/* ---------- Light mode: warm, soothing "spice kitchen" palette ---------- */
+[data-md-color-scheme="default"] {
+  --md-primary-fg-color:        #B5591E;   /* terracotta / paprika   */
+  --md-primary-fg-color--light: #D98A4E;
+  --md-primary-fg-color--dark:  #8A3F12;
+  --md-primary-bg-color:        #FFF9F0;
+  --md-primary-bg-color--light: #FFF9F0;
+
+  --md-accent-fg-color:         #C9922B;   /* saffron / turmeric gold */
+  --md-accent-fg-color--transparent: rgba(201, 146, 43, 0.12);
+  --md-accent-bg-color:         #FFFFFF;
+
+  --md-default-bg-color:        #FBF5EA;   /* warm cream page bg      */
+  --md-default-fg-color:        #3B2E26;   /* soft espresso text      */
+  --md-default-fg-color--light: #6B584C;
+  --md-default-fg-color--lighter: #A8907F;
+  --md-default-fg-color--lightest: #E8DCC8;
+
+  --md-code-bg-color:           #F3E8D6;
+  --md-code-fg-color:           #4A3826;
+
+  --md-typeset-a-color:         #A8501B;   /* links: warm terracotta */
+}
+
+/* ---------- Global typography & readability ------------------------------ */
+.md-typeset {
+  font-size: 0.75rem;
+  line-height: 1.7;
+}
+
+.md-typeset h1,
+.md-typeset h2,
+.md-typeset h3 {
+  font-weight: 600;
+  letter-spacing: 0.01em;
+}
+
+.md-typeset h1 {
+  color: var(--md-primary-fg-color);
+  border-bottom: 1px solid var(--md-default-fg-color--lightest);
+  padding-bottom: 0.4rem;
+}
+
+.md-typeset h2 {
+  margin-top: 2rem;
+}
+
+.md-typeset p,
+.md-typeset li {
+  line-height: 1.75;
+}
+
+/* Soft, rounded, breathable feel throughout */
+.md-typeset img {
+  border-radius: 10px;
+  box-shadow: 0 2px 10px rgba(59, 46, 38, 0.12);
+}
+
+[data-md-color-scheme="slate"] .md-typeset img {
+  box-shadow: 0 2px 12px rgba(0, 0, 0, 0.35);
+}
+
+/* ---------- Horizontal rules used to separate recipe sections ----------- */
+.md-typeset hr {
+  border-top: 2px solid var(--md-accent-fg-color--transparent);
+  margin: 1.75rem 0;
+}
+
+/* ---------- Ingredient / step lists: a little extra air and warmth ------ */
+.md-typeset ul li,
+.md-typeset ol li {
+  margin-bottom: 0.4rem;
+}
+
+.md-typeset ul li::marker {
+  color: var(--md-accent-fg-color);
+}
+
+.md-typeset ol li::marker {
+  color: var(--md-primary-fg-color);
+  font-weight: 600;
+}
+
+.md-typeset em {
+  color: var(--md-primary-fg-color);
+  font-style: normal;
+  font-weight: 500;
+}
+
+/* ---------- Tables (used by tablesort.js) -------------------------------- */
+.md-typeset table:not([class]) {
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0 1px 6px rgba(59, 46, 38, 0.08);
+}
+
+.md-typeset table:not([class]) th {
+  background-color: var(--md-primary-fg-color);
+  color: var(--md-primary-bg-color);
+}
+
+.md-typeset table:not([class]) tr:nth-child(even) {
+  background-color: var(--md-accent-fg-color--transparent);
+}
+
+/* ---------- Admonitions: soften the default sharp edges ----------------- */
+.md-typeset .admonition,
+.md-typeset details {
+  border-radius: 10px;
+  border-width: 1px;
+}
+
+/* ---------- Header / nav: calm, low-contrast accents --------------------- */
+.md-header {
+  box-shadow: 0 1px 6px rgba(0, 0, 0, 0.15);
+}
+
+.md-tabs {
+  background-color: var(--md-accent-fg-color);
+}
+
+.md-nav__link--active,
+.md-nav__link:focus,
+.md-nav__link:hover {
+  color: var(--md-accent-fg-color);
+}
+
+/* ---------- Footer -------------------------------------------------------- */
+.md-footer {
+  background-color: var(--md-primary-fg-color--dark);
+}
+
+/* ---------- Search highlight kept in-palette ------------------------------ */
+.md-typeset mark {
+  background-color: var(--md-accent-fg-color--transparent);
+  color: inherit;
+}
