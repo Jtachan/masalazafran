@@ -11,7 +11,9 @@ tags:
 # Frozen Fruit Yoghurt (Ice-Cream)
 
 A delicious and easy recipe with just three ingredients.
-I recommend to buy the frozen fruit, as it is almost already prepared for the recipe. 
+I recommend to buy the frozen fruit, as it is almost already prepared for the recipe.
+
+<img alt="frozen_yoghurt.jpeg" src="../_imgs/frozen_yoghurt.jpeg" width="500"/>
 
 ---
 
