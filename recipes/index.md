@@ -3,14 +3,16 @@
 Welcome to _Masala & Azafran_, an Indo-Hispanic cookbook with recipes from all around the globe.
 Here you will find easy and tasty recipes from different cultures.
 
-Click on the flag to jump directly to the cuisine you want.
+| Cuisine        |                                               Countries                                               |
+|:---------------|:-----------------------------------------------------------------------------------------------------:|
+| Mediterranean  | :flag_es:{title="Spain"} :flag_it:{title="Italy"} :flag_fr:{title="France"} :flag_gr:{title="Greece"} |
+| Asian          |                           :flag_in:{title="India"} :flag_jp:{title="Japan"}                           |
+| Latin-American |                                       :flag_mx:{title="Mexico"}                                       |
+| Nordic         |                                   :flag_cz:{title="Czech Republic"}                                   |
 
-| Cuisine | Countries |
-| :--- | :---: |
-| Mediterranean | [:flag_es:{title="Spain"}](spanish_index.md) [:flag_it:{title="Italy"}](italian_index.md) [:flag_fr:{title="France"}](french_index.md) [:flag_gr:{title="Greece"}](greek_index.md) |
-| Asian | [:flag_in:{title="India"}](indian_index.md) [:flag_jp:{title="Japan"}](japanese_index.md) |
-| Latin-American | [:flag_mx:{title="Mexico"}](mexican_index.md)|
-| Nordic | [:flag_cz:{title="Czech Republic"}](czech_index.md)|
+!!! Tip
+    To find dishes of one specific cuisine, go to the search bar and type/select the country.
+    You can find recipes there by the tag.
 
 ## Q&A
 
