@@ -11,7 +11,7 @@ title: "Pizza Dough"
 A quick an easy recipe for a pizza dough without the need to wait overnight.
 This recipe is for one pizza of approx 28 cm diameter.
 
-<img alt="Pizza" src="../_imgs/pizze.jpg" width=500>
+<img alt="Pizza" src="../_imgs/pizza.jpg" width=500>
 
 ---
 
