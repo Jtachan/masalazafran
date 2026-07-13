@@ -12,6 +12,8 @@ title: "Sourdough"
 The sourdough starter is defined as wilde yeast, and it is most efficient when created with whole-wheat flour.
 This recipe is designed for a sourdough of **75% hydration**.
 
+<img alt="Sourdough bread" src="../_imgs/sourdough.jpg" width=500>
+
 ---
 
 **Ingredients**

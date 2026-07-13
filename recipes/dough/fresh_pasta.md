@@ -13,6 +13,8 @@ Any fresh pasta can be easily stored in the freezer and only needs 2~4 minutes t
 !!! Hint
     See also the recipe for [Green Pasta](green_pasta.md)
 
+<img alt="Fresh pasta" src="../_imgs/pasta.jpeg" width=500>
+
 ---
 
 **Ingredients** (per ratio)

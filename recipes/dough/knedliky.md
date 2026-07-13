@@ -14,6 +14,8 @@ title: "Knedliky (Bread Dumplings)"
 This bread is one of the main pillars of the Czech cuisine.
 Is a recipe made out of stale bread and boiled, but steaming also works nicely.
 
+<img alt="Knedliky with goulash" src="../_imgs/knedliky.jpg" width=500>
+
 ---
 
 **Ingredients**
