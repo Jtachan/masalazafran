@@ -6,10 +6,11 @@ title: "Sides"
 
 ## Side dishes
 
-| Recipe | Origin |
-| :--- | :--- |
-| [Potato au Gratin](potato_au_gratin.md) | French :flag_fr: |
-| [Quiche](quiche.md) | French :flag_fr: |
+| Recipe                                   | Origin           |
+|:-----------------------------------------|:-----------------|
+| [Potato au Gratin](potato_au_gratin.md)  | French :flag_fr: |
+| [Quiche](quiche.md)                      | French :flag_fr: |
+| [Saute Mushrooms](saute_mushrooms.md)    | French :flag_fr: |
 
 ## Tapas
 
