@@ -6,8 +6,8 @@ title: "Sweets"
 
 | Recipe                               | Origin            |
 |:-------------------------------------|:------------------|
-| [Abuela's Apple Cake](applecake.md)  | Spanish :flag_es: |
-| [Abuela's Cheesecake](cheesecake.md) | Spanish :flag_es: |
+| [Abuela's Apple Cake](abuela_apple_cake.md)  | Spanish :flag_es: |
+| [Abuela's Cheesecake](abuela_cheesecake.md) | Spanish :flag_es: |
 | [Flan](flan.md)                      | Spanish :flag_es: |
 | [Frozen Fruit Yoghurt](frozen_yoghurt.md)  | -- |
 | [Ice-Cream (Jam)](ice_cream_jam.md)  | Italian :flag_it: |
