@@ -89,3 +89,8 @@ features = [
     "toc.follow",
     "toc.integrate",
 ]
+
+[[project.theme.palette]]
+scheme = "default"
+primary = "indigo"
+accent = "indigo"
