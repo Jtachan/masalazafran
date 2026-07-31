@@ -14,6 +14,9 @@ Here you will find easy and tasty recipes from different cultures.
     To find dishes of one specific cuisine, go to the search bar and type/select the country.
     You can find recipes there by the tag.
 
+<div class="item-suggestions"></div>
+<script src="item-suggestions.js"></script>
+
 ## Q&A
 
 ??? question inline "How do I search for a recipe?"

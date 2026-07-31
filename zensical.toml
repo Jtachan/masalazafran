@@ -6,7 +6,8 @@ docs_dir = "recipes"
 
 extra_javascript = [
     "https://unpkg.com/tablesort@5.3.0/dist/tablesort.min.js",
-    "tablesort.js"
+    "tablesort.js",
+    "item-suggestions.js",
 ]
 extra_css = [
     "stylesheet.css"
