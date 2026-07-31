@@ -30,14 +30,11 @@ if __name__ == "__main__":
     all_recipe_names = {r["recipe"] for r in recipes}
 
     for file in ROOT_PATH.glob("*/*.md"):
-        if (
-            file.name == "index.md"
-            or (name := file.name.split(".")[0].replace("_", " ").title())
-            in all_recipe_names
-        ):
-            continue
+        name = file.name.split(".")[0].replace("_", " ").title()
         if name.startswith("Abuela"):
             name = name.replace("Abuela", "Abuela's")
+        if file.name == "index.md" or name in all_recipe_names:
+            continue
         recipes.append(Entry(recipe=name, section=file.parent.name).to_dict())
 
     recipes.sort(key=lambda r: r["recipe"])
