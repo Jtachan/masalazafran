@@ -41,8 +41,6 @@ async function loadDatabase(path) {
 }
 
 function buildUI(container) {
-    injectStyles();
-
     container.innerHTML = '';
     container.classList.add('item-suggestions--initialized');
 
@@ -80,7 +78,7 @@ function renderCards(container) {
 
         const title = document.createElement('span');
         title.className = 'item-suggestions__card-title';
-        title.textContent = entry && entry.recipe != null ? String(entry.recipe) : 'Untitled';
+        title.textContent = entry.recipe;
 
         card.appendChild(title);
         cardsWrapper.appendChild(card);
@@ -130,67 +128,4 @@ function renderError(container) {
     msg.className = 'item-suggestions__error';
     msg.textContent = 'Suggestions could not be loaded.';
     container.appendChild(msg);
-}
-
-function injectStyles() {
-    if (document.getElementById('item-suggestions-styles')) return;
-
-    const style = document.createElement('style');
-    style.id = 'item-suggestions-styles';
-    style.textContent = `
-      .item-suggestions__toolbar {
-        display: flex;
-        justify-content: flex-end;
-        margin-bottom: 16px;
-      }
-
-      .item-suggestions__button {
-        padding: 8px 16px;
-        border: none;
-        border-radius: 6px;
-        background-color: #2563eb;
-        color: #ffffff;
-        font-size: 14px;
-        font-weight: 600;
-        cursor: pointer;
-      }
-
-      .item-suggestions__button:hover {
-        background-color: #1d4ed8;
-      }
-
-      .item-suggestions__cards {
-        display: flex;
-        flex-wrap: wrap;
-        gap: 16px;
-      }
-
-      .item-suggestions__card {
-        width: 160px;
-        height: 160px;
-        border-radius: 16px;
-        background-color: #f3f4f6;
-        border: 1px solid #e5e7eb;
-        display: flex;
-        align-items: center;
-        justify-content: center;
-        text-align: center;
-        padding: 12px;
-        box-sizing: border-box;
-        box-shadow: 0 1px 3px rgba(0, 0, 0, 0.08);
-      }
-
-      .item-suggestions__card-title {
-        font-size: 15px;
-        font-weight: 500;
-        color: #111827;
-        overflow-wrap: anywhere;
-      }
-
-      .item-suggestions__error {
-        color: #b91c1c;
-        font-size: 14px;
-      }
-    `;
-    document.head.appendChild(style);
 }
