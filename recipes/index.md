@@ -10,12 +10,12 @@ Here you will find easy and tasty recipes from different cultures.
 | Latin-American |                                       :flag_mx:{title="Mexico"}                                       |
 | Nordic         |                                   :flag_cz:{title="Czech Republic"}                                   |
 
+<div class="item-suggestions"></div>
+<script src="item-suggestions.js"></script>
+
 !!! Tip
     To find dishes of one specific cuisine, go to the search bar and type/select the country.
     You can find recipes there by the tag.
-
-<div class="item-suggestions"></div>
-<script src="item-suggestions.js"></script>
 
 ## Q&A
 
