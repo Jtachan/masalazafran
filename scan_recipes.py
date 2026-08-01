@@ -19,6 +19,7 @@ class Entry:
     nationality: str = (
         ""  # COUNTRY of the dish, or empty string. E.G.: "Spanish", "Indian", "Italian"
     )
+    image: str = ""
 
     def to_dict(self) -> dict:
         return dtc.asdict(self)
@@ -38,5 +39,12 @@ if __name__ == "__main__":
         recipes.append(Entry(recipe=name, section=file.parent.name).to_dict())
 
     recipes.sort(key=lambda r: r["recipe"])
+
+    empty_entry = Entry("", "").to_dict()
+    for recipe in recipes:
+        for k, v in empty_entry.items():
+            if k not in recipe:
+                recipe[k] = v
+
     with open(DB_PATH, "w", encoding="utf-8") as fh:
         json.dump(recipes, fh, indent=3)
