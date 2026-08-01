@@ -1,0 +1,7 @@
+[
+  {
+    "recipe": "",  // NAME of the recipe (titled). E.G.: "Pizza", "Focaccia", "Apple Cake".
+    "section": "",  // SECTION containing the recipe. E.G.: "dough", "sauces", "sweets".
+    "nationality": ""  // COUNTRY of the dish, or empty string. E.G.: "Spanish", "Indian", "Italian"
+  }
+]

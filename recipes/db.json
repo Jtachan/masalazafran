@@ -1,0 +1,170 @@
+[
+   {
+      "recipe": "Abuela's Apple Cake",
+      "section": "sweets",
+      "nationality": "Spanish",
+      "image": ""
+   },
+   {
+      "recipe": "Abuela's Cheesecake",
+      "section": "sweets",
+      "nationality": "Spanish",
+      "image": ""
+   },
+   {
+      "recipe": "Corn Tortillas",
+      "section": "dough",
+      "nationality": "Mexican",
+      "image": ""
+   },
+   {
+      "recipe": "Empanada Gallega",
+      "section": "sides",
+      "nationality": "Spanish",
+      "image": "empanada_gallega.jpeg"
+   },
+   {
+      "recipe": "Flan",
+      "section": "sweets",
+      "nationality": "Spanish",
+      "image": ""
+   },
+   {
+      "recipe": "Focaccia",
+      "section": "dough",
+      "nationality": "Italian",
+      "image": "focaccia.jpeg"
+   },
+   {
+      "recipe": "Fresh Pasta",
+      "section": "dough",
+      "nationality": "Italian",
+      "image": "pasta.jpeg"
+   },
+   {
+      "recipe": "Frijoles Paste",
+      "section": "sides",
+      "nationality": "Mexican",
+      "image": "frijoles.jpeg"
+   },
+   {
+      "recipe": "Frozen Yoghurt",
+      "section": "sweets",
+      "nationality": "global",
+      "image": "frozen_yoghurt.jpeg"
+   },
+   {
+      "recipe": "Gnocchi",
+      "section": "dough",
+      "nationality": "Italian",
+      "image": ""
+   },
+   {
+      "recipe": "Goulash",
+      "section": "stew",
+      "nationality": "Czech",
+      "image": ""
+   },
+   {
+      "recipe": "Green Pasta",
+      "section": "dough",
+      "nationality": "Italian",
+      "image": ""
+   },
+   {
+      "recipe": "Guacamole",
+      "section": "sauce",
+      "nationality": "Mexican",
+      "image": "guacamole.jpeg"
+   },
+   {
+      "recipe": "Gyoza Wrapper",
+      "section": "dough",
+      "nationality": "Japanese",
+      "image": ""
+   },
+   {
+      "recipe": "Ice Cream Jam",
+      "section": "sweets",
+      "nationality": "global",
+      "image": "ice_cream_jam.jpg"
+   },
+   {
+      "recipe": "Kiwi Confiture",
+      "section": "preserves",
+      "nationality": "global",
+      "image": ""
+   },
+   {
+      "recipe": "Knedliky",
+      "section": "dough",
+      "nationality": "Czech",
+      "image": "knedliky.jpg"
+   },
+   {
+      "recipe": "Lentejas",
+      "section": "stew",
+      "nationality": "Spanish",
+      "image": ""
+   },
+   {
+      "recipe": "Liquid Roti",
+      "section": "dough",
+      "nationality": "Indian",
+      "image": "liquid_roti.jpg"
+   },
+   {
+      "recipe": "Migas",
+      "section": "sides",
+      "nationality": "Spanish",
+      "image": ""
+   },
+   {
+      "recipe": "Naan",
+      "section": "dough",
+      "nationality": "Indian",
+      "image": "naan.jpg"
+   },
+   {
+      "recipe": "Pizza Dough",
+      "section": "dough",
+      "nationality": "Italian",
+      "image": "pizza.jpg"
+   },
+   {
+      "recipe": "Potato Au Gratin",
+      "section": "sides",
+      "nationality": "French",
+      "image": ""
+   },
+   {
+      "recipe": "Quiche",
+      "section": "sides",
+      "nationality": "French",
+      "image": "quiche.jpeg"
+   },
+   {
+      "recipe": "Saute Mushrooms",
+      "section": "sides",
+      "nationality": "French",
+      "image": "saute_mushrooms.jpeg"
+   },
+   {
+      "recipe": "Sourdough",
+      "section": "dough",
+      "nationality": "global",
+      "image": "sourdough.jpg"
+   },
+   {
+      "recipe": "Tiramisu",
+      "section": "sweets",
+      "nationality": "Italian",
+      "image": "tiramisu.jpeg"
+   },
+   {
+      "recipe": "Tzatziki",
+      "section": "sauce",
+      "nationality": "Greek",
+      "image": ""
+   }
+]
