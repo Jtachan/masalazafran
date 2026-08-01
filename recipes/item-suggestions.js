@@ -89,6 +89,7 @@ function renderCards(container) {
         title.href = `${ROOT_URL}/${entry.section}/${recipe_html_name}`;
 
         const tags = document.createElement("span");
+        tags.className = "item-suggestions__card-tags";
         tags.textContent = `${entry.nationality} ${singular_section}`
         tags.style.fontStyle = "italic"
 

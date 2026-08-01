@@ -185,6 +185,17 @@
     font-weight: 500;
     color: #111827;
     overflow-wrap: anywhere;
+    border-radius: 5px;
+    background-color: #f3f4f6;
+}
+
+.item-suggestions__card-tags {
+    font-size: 15px;
+    font-weight: 500;
+    color: #111827;
+    overflow-wrap: anywhere;
+    border-radius: 5px;
+    background-color: #ac6721;
 }
 
 .item-suggestions__error {
