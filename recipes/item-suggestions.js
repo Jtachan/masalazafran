@@ -1,8 +1,3 @@
-'use strict';
-
-const DB_PATH = '/db.json';
-const CARD_COUNT = 5;
-
 let database = [];
 let lastShownRecipes = [];
 
@@ -16,7 +11,7 @@ async function init() {
     }
 
     try {
-        database = await loadDatabase(DB_PATH);
+        database = await loadDatabase("db.json");
     } catch (err) {
         console.error('item-suggestions: failed to load db.json', err);
         renderError(container);
@@ -67,14 +62,17 @@ function renderCards(container) {
     const cardsWrapper = container.querySelector('.item-suggestions__cards');
     if (!cardsWrapper) return;
 
-    const picks = pickRandomEntries(database, CARD_COUNT, lastShownRecipes);
+    const picks = pickRandomEntries(database, 5, lastShownRecipes);
     lastShownRecipes = picks.map((entry) => entry.recipe);
 
+    // Removing any previous contents, so when the button is clicked again the cards don't stack up.
     cardsWrapper.innerHTML = '';
 
     picks.forEach((entry) => {
-        const card = document.createElement('div');
+        const card = document.createElement('a');
         card.className = 'item-suggestions__card';
+        let recipe_html_name = entry.recipe.toLowerCase().replace("'s", "").replaceAll(" ", "_")
+        card.href = `https://jtachan.github.io/masalazafran/${entry.section}/${recipe_html_name}`;
 
         const title = document.createElement('span');
         title.className = 'item-suggestions__card-title';

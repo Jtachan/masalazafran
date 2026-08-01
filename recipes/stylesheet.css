@@ -138,7 +138,6 @@
 
 .item-suggestions__toolbar {
     display: flex;
-    justify-content: flex-end;
     margin-bottom: 16px;
 }
 
@@ -161,6 +160,8 @@
     display: flex;
     flex-wrap: wrap;
     gap: 16px;
+    justify-content: center;
+    align-items: center;
 }
 
 .item-suggestions__card {

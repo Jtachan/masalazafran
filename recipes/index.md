@@ -10,6 +10,11 @@ Here you will find easy and tasty recipes from different cultures.
 | Latin-American |                                       :flag_mx:{title="Mexico"}                                       |
 | Nordic         |                                   :flag_cz:{title="Czech Republic"}                                   |
 
+## Cooking Suggestions
+
+Here are 5 random recipes among all of them.
+You can click the "new suggestions" button to get 5 new suggestions.
+
 <div class="item-suggestions"></div>
 <script src="item-suggestions.js"></script>
 
