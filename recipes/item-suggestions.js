@@ -1,3 +1,5 @@
+const ROOT_URL = "https://jtachan.github.io/masalazafran";
+
 let database = [];
 let lastShownRecipes = [];
 
@@ -69,16 +71,29 @@ function renderCards(container) {
     cardsWrapper.innerHTML = '';
 
     picks.forEach((entry) => {
-        const card = document.createElement('a');
-        card.className = 'item-suggestions__card';
         let recipe_html_name = entry.recipe.toLowerCase().replace("'s", "").replaceAll(" ", "_")
-        card.href = `https://jtachan.github.io/masalazafran/${entry.section}/${recipe_html_name}`;
+        let singular_section = entry.section.endsWith("s") ? entry.section.slice(0, -1) : entry.section;
 
-        const title = document.createElement('span');
+        const card = document.createElement('div');
+        card.className = 'item-suggestions__card';
+        if (entry.image !== "") {
+            card.style.backgroundImage = `url("${ROOT_URL}/_imgs/${entry.image}")`;
+            card.style.backgroundSize = "cover";       // scales image to fill the div
+            card.style.backgroundPosition = "center";  // centers the image
+            card.style.backgroundRepeat = "no-repeat"; // prevents tiling
+        }
+
+        const title = document.createElement('a');
         title.className = 'item-suggestions__card-title';
         title.textContent = entry.recipe;
+        title.href = `${ROOT_URL}/${entry.section}/${recipe_html_name}`;
+
+        const tags = document.createElement("span");
+        tags.textContent = `${entry.nationality} ${singular_section}`
+        tags.style.fontStyle = "italic"
 
         card.appendChild(title);
+        card.appendChild(tags);
         cardsWrapper.appendChild(card);
     });
 }
