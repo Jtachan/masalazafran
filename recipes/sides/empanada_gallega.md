@@ -1,7 +1,6 @@
 ---
 tags:
   - Spanish
-  - Oven
   - Savory
   - Party-food
   - Side-dish

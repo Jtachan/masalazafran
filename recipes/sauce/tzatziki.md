@@ -8,7 +8,7 @@ tags:
 
 # Tzatziki
 
-The tzatziki is a refreshing mediterranean sauce, which is great to accompany by meat or bread.
+The tzatziki is a refreshing Mediterranean sauce, which is great to accompany by meat or bread.
 
 ---
 

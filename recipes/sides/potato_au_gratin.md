@@ -2,7 +2,6 @@
 tags:
   - French
   - Mediterranean
-  - Oven
   - Side-dish
   - Vegetarian
 ---

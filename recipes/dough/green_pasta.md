@@ -2,6 +2,7 @@
 tags:
   - Dough
   - Italian
+  - Mediterranean
   - Pasta
 ---
 

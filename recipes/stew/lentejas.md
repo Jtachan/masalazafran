@@ -1,6 +1,7 @@
 ---
 tags:
   - Spanish
+  - Mediterranean
   - One-pot
   - Stew
 ---

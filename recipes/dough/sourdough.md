@@ -2,8 +2,6 @@
 tags:
   - Bread
   - Dough
-  - Fermentation
-  - Oven
 title: "Sourdough"
 ---
 

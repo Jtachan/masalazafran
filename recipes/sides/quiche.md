@@ -4,7 +4,6 @@ tags:
   - French
   - Savory
   - Side-dish
-  - Oven
 ---
 
 # Quiche

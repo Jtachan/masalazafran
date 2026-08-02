@@ -5,7 +5,6 @@ tags:
   - Mediterranean
   - Spanish
   - Sweet
-  - Traditional
   - Vegetarian
 ---
 

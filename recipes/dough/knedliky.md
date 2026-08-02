@@ -5,7 +5,6 @@ tags:
   - Dough
   - Dumplings
   - Leftover-saving
-  - Side-dish
 title: "Knedliky (Bread Dumplings)"
 ---
 

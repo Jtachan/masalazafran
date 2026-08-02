@@ -7,7 +7,6 @@ tags:
   - No-bake
   - Spanish
   - Sweet
-  - Traditional
 ---
 
 # Spanish Abuela's Cheesecake (Cuajada & queso)

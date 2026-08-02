@@ -2,7 +2,7 @@
 tags:
   - Dough
   - Italian
-  - Oven
+  - Mediterranean
 title: "Pizza Dough"
 ---
 
