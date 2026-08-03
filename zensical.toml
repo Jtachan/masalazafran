@@ -25,36 +25,42 @@ nav = [
         "dough/gyoza_wrapper.md",
         "dough/knedliky.md",
         "dough/liquid_roti.md",
+        "dough/naan.md",
         "dough/pizza_dough.md",
-        "dough/sourdough.md",
+        "dough/sourdough.md"
     ] },
     { "Preserves" = [
         "preserves/index.md",
-        "preserves/kiwi_confiture.md",
+        "preserves/kiwi_confiture.md"
     ] },
-    { "Sauces" = [
+    { "Sauce" = [
         "sauce/index.md",
         "sauce/guacamole.md",
-        "sauce/tzatziki.md",
+        "sauce/tzatziki.md"
     ] },
     { "Sides" = [
         "sides/index.md",
+        "sides/empanada_gallega.md",
         "sides/frijoles_paste.md",
         "sides/migas.md",
         "sides/potato_au_gratin.md",
         "sides/quiche.md",
+        "sides/saute_mushrooms.md"
     ] },
-    { "Stews" = [
+    { "Stew" = [
         "stew/index.md",
         "stew/goulash.md",
+        "stew/lentejas.md"
     ] },
     { "Sweets" = [
         "sweets/index.md",
-        "sweets/applecake.md",
-        "sweets/cheesecake.md",
+        "sweets/abuela_apple_cake.md",
+        "sweets/abuela_cheesecake.md",
         "sweets/flan.md",
-        "sweets/tiramisu.md",
-    ] },
+        "sweets/frozen_yoghurt.md",
+        "sweets/ice_cream_jam.md",
+        "sweets/tiramisu.md"
+    ] }
 ]
 
 [project.markdown_extensions.pymdownx.details]
