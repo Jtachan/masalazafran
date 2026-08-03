@@ -75,6 +75,7 @@ nav = [
 [project.theme]
 
 icon = { logo = "lucide/cooking-pot" }
+favicon = "favicon.svg"
 language = "en"
 
 features = [
