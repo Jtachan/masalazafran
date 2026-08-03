@@ -64,7 +64,7 @@ function renderCards(container) {
     const cardsWrapper = container.querySelector('.item-suggestions__cards');
     if (!cardsWrapper) return;
 
-    const picks = pickRandomEntries(database, 5, lastShownRecipes);
+    const picks = pickRandomEntries(database, 6, lastShownRecipes);
     lastShownRecipes = picks.map((entry) => entry.recipe);
 
     // Removing any previous contents, so when the button is clicked again the cards don't stack up.
