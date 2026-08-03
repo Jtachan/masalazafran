@@ -84,6 +84,12 @@
       "image": ""
    },
    {
+      "recipe": "Gypsy Pot",
+      "section": "stew",
+      "nationality": "Spanish",
+      "image": "olla_gitana.jpeg"
+   },
+   {
       "recipe": "Ice Cream Jam",
       "section": "sweets",
       "nationality": "global",

@@ -50,6 +50,7 @@ nav = [
     { "Stew" = [
         "stew/index.md",
         "stew/goulash.md",
+        "stew/gypsy_pot.md",
         "stew/lentejas.md"
     ] },
     { "Sweets" = [
