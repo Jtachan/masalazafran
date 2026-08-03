@@ -29,6 +29,10 @@ nav = [
         "dough/pizza_dough.md",
         "dough/sourdough.md"
     ] },
+    { "Drinks" = [
+        "drinks/index.md",
+        "drinks/cold_brew.md"
+    ] },
     { "Preserves" = [
         "preserves/index.md",
         "preserves/kiwi_confiture.md"

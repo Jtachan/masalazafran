@@ -12,6 +12,12 @@
       "image": ""
    },
    {
+      "recipe": "Cold Brew",
+      "section": "drinks",
+      "nationality": "Japanese",
+      "image": "cold_brew.jpg"
+   },
+   {
       "recipe": "Corn Tortillas",
       "section": "dough",
       "nationality": "Mexican",
