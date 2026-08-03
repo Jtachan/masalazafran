@@ -16,8 +16,8 @@ title: "Sides"
 
 | Recipe                                  | Origin            |
 |:----------------------------------------|:------------------|
-| [Migas (bread-crumbs)](migas.md)        | Spanish :flag_es: |
 | [Empanada gallega](empanada_gallega.md) | Spanish :flag_es: |
+| [Migas (bread-crumbs)](migas.md)        | Spanish :flag_es: |
 
 ## Accompaniments
 
