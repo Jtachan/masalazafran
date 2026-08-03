@@ -13,7 +13,7 @@ This recipe should not be done in small quantities, and using a pressure-cook (6
 !!! Hint
     This recipe is commonly served with the [Knedliky](../dough/knedliky.md), a while-boiled bread which is a central pillar of the Czech cuisine.
 
-<img alt="Knedliky with goulash" src="../_imgs/knedliky.jpg" width=500>
+<img alt="Knedliky with goulash" src="../_imgs/czech_goulash.jpg" width=500>
 
 ---
 
