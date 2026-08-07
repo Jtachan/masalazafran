@@ -60,6 +60,12 @@
       "image": "frozen_yoghurt.jpeg"
    },
    {
+      "recipe": "Ginger Shot",
+      "section": "drinks",
+      "nationality": "",
+      "image": ""
+   },
+   {
       "recipe": "Gnocchi",
       "section": "dough",
       "nationality": "Italian",
