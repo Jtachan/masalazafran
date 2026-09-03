@@ -13,6 +13,18 @@ ROOT_PATH = Path(__file__).resolve().parent / "recipes"
 DB_PATH = ROOT_PATH / "db.json"
 
 
+WORLD_MD_FLAGS_MAP = {
+    "Spanish": ":flag_es:",
+    "Italian": ":flag_it:",
+    "French": ":flag_fr:",
+    "Greek": ":flag_gr:",
+    "Indian": ":flag_in:",
+    "Japanese": ":flag_jp:",
+    "Mexican": ":flag_mx:",
+    "Czech": ":flag_cz:",
+}
+
+
 @dtc.dataclass
 class Entry:
     recipe: str  # NAME of the recipe (titled). E.G.: "Pizza", "Focaccia", "Apple Cake".
@@ -27,7 +39,8 @@ class Entry:
         return dtc.asdict(self)
 
 
-if __name__ == "__main__":
+def update_recipe_db() -> tuple[dict, dict]:
+    """Scan all recipe Markdown files and updates the database file."""
     with open(DB_PATH, "r", encoding="utf-8") as fh:
         recipes: list[dict] = json.load(fh)
     all_recipe_names = {r["recipe"] for r in recipes}
@@ -56,6 +69,10 @@ if __name__ == "__main__":
     with open(DB_PATH, "w", encoding="utf-8") as fh:
         json.dump(recipes, fh, indent=3)
 
+    return recipes, nav
+
+
+def print_navigation(nav: dict):
     final_nav = [{"Home": "index.md"}]
     for section_title in sorted(nav):
         # Sorting contents alphabetically, with the file 'index.md' as first.
@@ -69,3 +86,41 @@ if __name__ == "__main__":
         "New navigation:\n",
         pprint.pformat(final_nav).replace(":", "=").replace("'", '"'),
     )
+
+
+def create_index_table(
+    recipes_db: dict, section: str = ""
+) -> tuple[list[str], list[tuple]]:
+    """Defines the data of an index table as a dictionary."""
+    headers = ["Recipe", "Origin", "Section"] if section == "" else ["Recipe", "Origin"]
+    table_rows = []
+
+    for r in recipes_db:
+        if section != "" and r["section"] != section:
+            continue
+
+        r_name = r["recipe"]
+        if r["annotation"] != "":
+            r_name += f" {r['annotation']}"
+
+        r_link = r["recipe"].lower().replace(" ", "_") + ".md"
+        if section == "":
+            r_link = f"{r['section']}/{r_link}"
+
+        r_entry = f"[{r_name}]({r_link})"
+
+        r_flag = WORLD_MD_FLAGS_MAP.get(r["nationality"], "--")
+        if r_flag != "--":
+            r_flag = f"{r['nationality']} {r_flag}"
+
+        row_data = (
+            (r_entry, r_flag, r["section"]) if section == "" else (r_entry, r_flag)
+        )
+        table_rows.append(row_data)
+
+    return headers, table_rows
+
+
+if __name__ == "__main__":
+    db_data, nav_data = update_recipe_db()
+    print_navigation(nav_data)
