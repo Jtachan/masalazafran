@@ -21,6 +21,7 @@ class Entry:
         ""  # COUNTRY of the dish, or empty string. E.G.: "Spanish", "Indian", "Italian"
     )
     image: str = ""
+    annotation: str = ""
 
     def to_dict(self) -> dict:
         return dtc.asdict(self)
