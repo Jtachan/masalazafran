@@ -6,7 +6,8 @@ tags:
   - Mediterranean
   - Side-dish
 ---
-# Saute Mushrooms
+
+# Sauté Mushrooms
 
 <img alt="Saute Mushrooms" src="../_imgs/saute_mushrooms.jpeg" width=500>
 

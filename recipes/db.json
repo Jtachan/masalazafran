@@ -3,192 +3,224 @@
       "recipe": "Abuela's Apple Cake",
       "section": "sweets",
       "nationality": "Spanish",
-      "image": ""
+      "image": "",
+      "annotation": ""
    },
    {
       "recipe": "Abuela's Cheesecake",
       "section": "sweets",
       "nationality": "Spanish",
-      "image": ""
+      "image": "",
+      "annotation": "Cuajada y Queso"
    },
    {
       "recipe": "Cold Brew",
       "section": "drinks",
       "nationality": "Japanese",
-      "image": "cold_brew.jpg"
+      "image": "cold_brew.jpg",
+      "annotation": "Coffee"
    },
    {
       "recipe": "Corn Tortillas",
-      "section": "dough",
+      "section": "doughs",
       "nationality": "Mexican",
-      "image": ""
+      "image": "",
+      "annotation": ""
    },
    {
       "recipe": "Empanada Gallega",
       "section": "sides",
       "nationality": "Spanish",
-      "image": "empanada_gallega.jpeg"
+      "image": "empanada_gallega.jpeg",
+      "annotation": ""
    },
    {
       "recipe": "Flan",
       "section": "sweets",
       "nationality": "Spanish",
-      "image": ""
+      "image": "",
+      "annotation": ""
    },
    {
       "recipe": "Focaccia",
-      "section": "dough",
+      "section": "doughs",
       "nationality": "Italian",
-      "image": "focaccia.jpeg"
+      "image": "focaccia.jpeg",
+      "annotation": ""
    },
    {
       "recipe": "Fresh Pasta",
-      "section": "dough",
+      "section": "doughs",
       "nationality": "Italian",
-      "image": "pasta.jpeg"
+      "image": "pasta.jpeg",
+      "annotation": ""
    },
    {
       "recipe": "Frijoles Paste",
       "section": "sides",
       "nationality": "Mexican",
-      "image": "frijoles.jpeg"
+      "image": "frijoles.jpeg",
+      "annotation": ""
    },
    {
       "recipe": "Frozen Yoghurt",
       "section": "sweets",
       "nationality": "global",
-      "image": "frozen_yoghurt.jpeg"
+      "image": "frozen_yoghurt.jpeg",
+      "annotation": ""
    },
    {
       "recipe": "Ginger Shot",
       "section": "drinks",
       "nationality": "",
-      "image": ""
+      "image": "",
+      "annotation": ""
    },
    {
       "recipe": "Gnocchi",
-      "section": "dough",
+      "section": "doughs",
       "nationality": "Italian",
-      "image": ""
+      "image": "",
+      "annotation": ""
    },
    {
       "recipe": "Goulash",
-      "section": "stew",
+      "section": "stews",
       "nationality": "Czech",
-      "image": "czech_goulash.jpg"
+      "image": "czech_goulash.jpg",
+      "annotation": ""
    },
    {
       "recipe": "Green Pasta",
-      "section": "dough",
+      "section": "doughs",
       "nationality": "Italian",
-      "image": ""
+      "image": "",
+      "annotation": ""
    },
    {
       "recipe": "Guacamole",
-      "section": "sauce",
+      "section": "sauces",
       "nationality": "Mexican",
-      "image": "guacamole.jpeg"
+      "image": "guacamole.jpeg",
+      "annotation": ""
    },
    {
       "recipe": "Gyoza Wrapper",
-      "section": "dough",
+      "section": "doughs",
       "nationality": "Japanese",
-      "image": ""
+      "image": "",
+      "annotation": ""
    },
    {
       "recipe": "Gypsy Pot",
-      "section": "stew",
+      "section": "stews",
       "nationality": "Spanish",
-      "image": "olla_gitana.jpeg"
+      "image": "olla_gitana.jpeg",
+      "annotation": ""
    },
    {
-      "recipe": "Ice Cream Jam",
+      "recipe": "Ice Cream",
       "section": "sweets",
-      "nationality": "global",
-      "image": "ice_cream_jam.jpg"
+      "nationality": "Italian",
+      "image": "ice_cream_jam.jpg",
+      "annotation": "Jam / Berries"
    },
    {
       "recipe": "Kiwi Confiture",
       "section": "preserves",
       "nationality": "global",
-      "image": ""
+      "image": "",
+      "annotation": ""
    },
    {
       "recipe": "Knedliky",
-      "section": "dough",
+      "section": "doughs",
       "nationality": "Czech",
-      "image": "czech_goulash.jpg"
+      "image": "czech_goulash.jpg",
+      "annotation": ""
    },
    {
       "recipe": "Lentejas",
-      "section": "stew",
+      "section": "stews",
       "nationality": "Spanish",
-      "image": ""
+      "image": "",
+      "annotation": ""
    },
    {
       "recipe": "Liquid Roti",
-      "section": "dough",
+      "section": "doughs",
       "nationality": "Indian",
-      "image": "liquid_roti.jpg"
+      "image": "liquid_roti.jpg",
+      "annotation": ""
    },
    {
       "recipe": "Migas",
       "section": "sides",
       "nationality": "Spanish",
-      "image": ""
+      "image": "",
+      "annotation": ""
    },
    {
       "recipe": "Naan",
-      "section": "dough",
+      "section": "doughs",
       "nationality": "Indian",
-      "image": "naan.jpg"
+      "image": "naan.jpg",
+      "annotation": ""
    },
    {
       "recipe": "Pizza Dough",
-      "section": "dough",
+      "section": "doughs",
       "nationality": "Italian",
-      "image": "pizza.jpg"
+      "image": "pizza.jpg",
+      "annotation": ""
    },
    {
       "recipe": "Potato Au Gratin",
       "section": "sides",
       "nationality": "French",
-      "image": ""
+      "image": "",
+      "annotation": ""
    },
    {
       "recipe": "Quiche",
       "section": "sides",
       "nationality": "French",
-      "image": "quiche.jpeg"
+      "image": "quiche.jpeg",
+      "annotation": ""
    },
    {
       "recipe": "Salsa Brava",
-      "section": "sauce",
-      "nationality": "",
-      "image": ""
+      "section": "sauces",
+      "nationality": "Spanish",
+      "image": "",
+      "annotation": ""
    },
    {
       "recipe": "Saute Mushrooms",
       "section": "sides",
       "nationality": "French",
-      "image": "saute_mushrooms.jpeg"
+      "image": "saute_mushrooms.jpeg",
+      "annotation": ""
    },
    {
       "recipe": "Sourdough",
-      "section": "dough",
+      "section": "doughs",
       "nationality": "global",
-      "image": "sourdough.jpg"
+      "image": "sourdough.jpg",
+      "annotation": ""
    },
    {
       "recipe": "Tiramisu",
       "section": "sweets",
       "nationality": "Italian",
-      "image": "tiramisu.jpeg"
+      "image": "tiramisu.jpeg",
+      "annotation": ""
    },
    {
       "recipe": "Tzatziki",
-      "section": "sauce",
+      "section": "sauces",
       "nationality": "Greek",
-      "image": ""
+      "image": "",
+      "annotation": ""
    }
 ]

@@ -1,9 +1,9 @@
 ---
-title: "Preserves"
+title: Preserves
 ---
 
 # Preserves & Jams
 
-| Recipe | Origin |
-| :--- | :--- |
-| [Kiwi confiture](kiwi_confiture.md) | — |
+|Recipe|Origin|
+|:---|:---|
+|[Kiwi Confiture](kiwi_confiture.md)|--|

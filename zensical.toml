@@ -6,67 +6,52 @@ docs_dir = "recipes"
 
 extra_javascript = [
     "https://unpkg.com/tablesort@5.3.0/dist/tablesort.min.js",
-    "tablesort.js",
-    "item-suggestions.js",
+    "_js/tablesort.js",
 ]
 extra_css = [
     "stylesheet.css"
 ]
 
 nav = [
-    { "Home" = "index.md" },
-    { "Dough" = [
-        "dough/index.md",
-        "dough/corn_tortillas.md",
-        "dough/focaccia.md",
-        "dough/fresh_pasta.md",
-        "dough/gnocchi.md",
-        "dough/green_pasta.md",
-        "dough/gyoza_wrapper.md",
-        "dough/knedliky.md",
-        "dough/liquid_roti.md",
-        "dough/naan.md",
-        "dough/pizza_dough.md",
-        "dough/sourdough.md"
-    ] },
-    { "Drinks" = [
-        "drinks/index.md",
-        "drinks/cold_brew.md"
-    ] },
-    { "Preserves" = [
-        "preserves/index.md",
-        "preserves/kiwi_confiture.md"
-    ] },
-    { "Sauce" = [
-        "sauce/index.md",
-        "sauce/guacamole.md",
-        "sauce/salsa_brava.md",
-        "sauce/tzatziki.md"
-    ] },
-    { "Sides" = [
-        "sides/index.md",
+    { "Home" = ["index.md", "all_recipes.md"] },
+    { "Doughs" = ["doughs/index.md",
+        "doughs/corn_tortillas.md",
+        "doughs/focaccia.md",
+        "doughs/fresh_pasta.md",
+        "doughs/gnocchi.md",
+        "doughs/green_pasta.md",
+        "doughs/gyoza_wrapper.md",
+        "doughs/knedliky.md",
+        "doughs/liquid_roti.md",
+        "doughs/naan.md",
+        "doughs/pizza_dough.md",
+        "doughs/sourdough.md"] },
+    { "Drinks" = ["drinks/index.md",
+        "drinks/cold_brew.md",
+        "drinks/ginger_shot.md"] },
+    { "Preserves" = ["preserves/index.md", "preserves/kiwi_confiture.md"] },
+    { "Sauces" = ["sauces/index.md",
+        "sauces/guacamole.md",
+        "sauces/salsa_brava.md",
+        "sauces/tzatziki.md"] },
+    { "Sides" = ["sides/index.md",
         "sides/empanada_gallega.md",
         "sides/frijoles_paste.md",
         "sides/migas.md",
         "sides/potato_au_gratin.md",
         "sides/quiche.md",
-        "sides/saute_mushrooms.md"
-    ] },
-    { "Stew" = [
-        "stew/index.md",
-        "stew/goulash.md",
-        "stew/gypsy_pot.md",
-        "stew/lentejas.md"
-    ] },
-    { "Sweets" = [
-        "sweets/index.md",
+        "sides/saute_mushrooms.md"] },
+    { "Stews" = ["stews/index.md",
+        "stews/goulash.md",
+        "stews/gypsy_pot.md",
+        "stews/lentejas.md"] },
+    { "Sweets" = ["sweets/index.md",
         "sweets/abuela_apple_cake.md",
         "sweets/abuela_cheesecake.md",
         "sweets/flan.md",
         "sweets/frozen_yoghurt.md",
         "sweets/ice_cream_jam.md",
-        "sweets/tiramisu.md"
-    ] }
+        "sweets/tiramisu.md"] }
 ]
 
 [project.markdown_extensions.pymdownx.details]
