@@ -2,7 +2,9 @@
 title: Recipe Index
 ---
 
-# Recipe Index
+# All Recipes
+
+Total recipes: 32
 
 |Recipe|Origin|Section|
 |:---|:---|:---|

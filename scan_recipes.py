@@ -158,7 +158,7 @@ def update_index_md_files(recipes_db: dict):
     with open(ROOT_PATH / "all_recipes.md", "w", encoding="utf-8") as fh:
         fh.write(
             f"---\ntitle: Recipe Index\n---\n\n"
-            f"# Recipe Index\n\n{md_table}"
+            f"# All Recipes\n\nTotal recipes: {len(recipes_db)}\n\n{md_table}"
         )
 
 
