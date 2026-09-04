@@ -39,8 +39,32 @@ class Entry:
         return dtc.asdict(self)
 
 
-def update_recipe_db() -> tuple[dict, dict]:
-    """Scan all recipe Markdown files and updates the database file."""
+def print_navigation(nav: dict):
+    """Terminal print of the navigation for `zensical.toml` (already formatted)."""
+    final_nav = [{"Home": "index.md"}]
+    for section_title in sorted(nav):
+        # Sorting contents alphabetically, with the file 'index.md' as first.
+        section_content = [f for f in nav[section_title] if "index.md" in f]
+        section_content.extend(
+            [f for f in sorted(nav[section_title]) if "index.md" not in f]
+        )
+        final_nav.append({section_title: section_content})
+
+    print(
+        "New navigation:\n",
+        pprint.pformat(final_nav).replace(":", "=").replace("'", '"'),
+    )
+
+
+def update_recipe_db() -> dict:
+    """Scan all recipe Markdown files and updates the database file `recipes/db.json`.
+
+    Returns
+    -------
+    recipes : dict
+        All database entries as a dictionary. Each entry contains the same
+        fields as in the `Entry` dataclass.
+    """
     with open(DB_PATH, "r", encoding="utf-8") as fh:
         recipes: list[dict] = json.load(fh)
     all_recipe_names = {r["recipe"] for r in recipes}
@@ -68,32 +92,17 @@ def update_recipe_db() -> tuple[dict, dict]:
 
     with open(DB_PATH, "w", encoding="utf-8") as fh:
         json.dump(recipes, fh, indent=3)
+    print_navigation(nav)
 
-    return recipes, nav
-
-
-def print_navigation(nav: dict):
-    final_nav = [{"Home": "index.md"}]
-    for section_title in sorted(nav):
-        # Sorting contents alphabetically, with the file 'index.md' as first.
-        section_content = [f for f in nav[section_title] if "index.md" in f]
-        section_content.extend(
-            [f for f in sorted(nav[section_title]) if "index.md" not in f]
-        )
-        final_nav.append({section_title: section_content})
-
-    print(
-        "New navigation:\n",
-        pprint.pformat(final_nav).replace(":", "=").replace("'", '"'),
-    )
+    return recipes
 
 
-def create_index_table(
-    recipes_db: dict, section: str = ""
-) -> tuple[list[str], list[tuple]]:
-    """Defines the data of an index table as a dictionary."""
+def create_md_index_table(recipes_db: dict, section: str = "") -> str:
+    """Creates an index table in Markdown (containing the links)."""
     headers = ["Recipe", "Origin", "Section"] if section == "" else ["Recipe", "Origin"]
-    table_rows = []
+
+    md_table = "|" + "|".join(headers) + "|\n"
+    md_table += "|:---" * len(headers) + "|\n"
 
     for r in recipes_db:
         if section != "" and r["section"] != section:
@@ -116,11 +125,25 @@ def create_index_table(
         row_data = (
             (r_entry, r_flag, r["section"]) if section == "" else (r_entry, r_flag)
         )
-        table_rows.append(row_data)
+        md_table += "|" + "|".join(row_data) + "|\n"
 
-    return headers, table_rows
+    return md_table
+
+
+def update_index_md_files(recipes_db: dict):
+    """Iterates over all the folders and updates the indexes for the recipes."""
+    # Iterating over all section index files...
+    for idx_file in ROOT_PATH.glob("*/index.md"):
+        section = idx_file.parent.name
+        md_table = create_md_index_table(recipes_db, section)
+
+        with open(idx_file, "w", encoding="utf-8") as fh:
+            fh.write(
+                f"---\ntitle: {section.title()}\n---\n\n"
+                f"# {section.title()}\n\n{md_table}"
+            )
 
 
 if __name__ == "__main__":
-    db_data, nav_data = update_recipe_db()
-    print_navigation(nav_data)
+    recipes = update_recipe_db()
+    update_index_md_files(recipes)
