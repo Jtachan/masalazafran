@@ -22,7 +22,7 @@
    },
    {
       "recipe": "Corn Tortillas",
-      "section": "dough",
+      "section": "doughs",
       "nationality": "Mexican",
       "image": "",
       "annotation": ""
@@ -43,14 +43,14 @@
    },
    {
       "recipe": "Focaccia",
-      "section": "dough",
+      "section": "doughs",
       "nationality": "Italian",
       "image": "focaccia.jpeg",
       "annotation": ""
    },
    {
       "recipe": "Fresh Pasta",
-      "section": "dough",
+      "section": "doughs",
       "nationality": "Italian",
       "image": "pasta.jpeg",
       "annotation": ""
@@ -78,42 +78,42 @@
    },
    {
       "recipe": "Gnocchi",
-      "section": "dough",
+      "section": "doughs",
       "nationality": "Italian",
       "image": "",
       "annotation": ""
    },
    {
       "recipe": "Goulash",
-      "section": "stew",
+      "section": "stews",
       "nationality": "Czech",
       "image": "czech_goulash.jpg",
       "annotation": ""
    },
    {
       "recipe": "Green Pasta",
-      "section": "dough",
+      "section": "doughs",
       "nationality": "Italian",
       "image": "",
       "annotation": ""
    },
    {
       "recipe": "Guacamole",
-      "section": "sauce",
+      "section": "sauces",
       "nationality": "Mexican",
       "image": "guacamole.jpeg",
       "annotation": ""
    },
    {
       "recipe": "Gyoza Wrapper",
-      "section": "dough",
+      "section": "doughs",
       "nationality": "Japanese",
       "image": "",
       "annotation": ""
    },
    {
       "recipe": "Gypsy Pot",
-      "section": "stew",
+      "section": "stews",
       "nationality": "Spanish",
       "image": "olla_gitana.jpeg",
       "annotation": ""
@@ -134,21 +134,21 @@
    },
    {
       "recipe": "Knedliky",
-      "section": "dough",
+      "section": "doughs",
       "nationality": "Czech",
       "image": "czech_goulash.jpg",
       "annotation": ""
    },
    {
       "recipe": "Lentejas",
-      "section": "stew",
+      "section": "stews",
       "nationality": "Spanish",
       "image": "",
       "annotation": ""
    },
    {
       "recipe": "Liquid Roti",
-      "section": "dough",
+      "section": "doughs",
       "nationality": "Indian",
       "image": "liquid_roti.jpg",
       "annotation": ""
@@ -162,14 +162,14 @@
    },
    {
       "recipe": "Naan",
-      "section": "dough",
+      "section": "doughs",
       "nationality": "Indian",
       "image": "naan.jpg",
       "annotation": ""
    },
    {
       "recipe": "Pizza Dough",
-      "section": "dough",
+      "section": "doughs",
       "nationality": "Italian",
       "image": "pizza.jpg",
       "annotation": ""
@@ -190,7 +190,7 @@
    },
    {
       "recipe": "Salsa Brava",
-      "section": "sauce",
+      "section": "sauces",
       "nationality": "",
       "image": "",
       "annotation": ""
@@ -204,7 +204,7 @@
    },
    {
       "recipe": "Sourdough",
-      "section": "dough",
+      "section": "doughs",
       "nationality": "global",
       "image": "sourdough.jpg",
       "annotation": ""
@@ -218,7 +218,7 @@
    },
    {
       "recipe": "Tzatziki",
-      "section": "sauce",
+      "section": "sauces",
       "nationality": "Greek",
       "image": "",
       "annotation": ""

@@ -1,10 +1,10 @@
 ---
-title: "Drinks"
+title: Drinks
 ---
 
 # Drinks
 
-| Recipe | Origin |
-| :--- | :--- |
-| [Cold Brew (coffee)](cold_brew.md) | Japanese :flag_jp: |
-| [Ginger shot](ginger_shot.md) | -- |
+|Recipe|Origin|
+|:---|:---|
+|[Cold Brew Coffee](cold_brew.md)|Japanese :flag_jp:|
+|[Ginger Shot](ginger_shot.md)|--|
