@@ -66,8 +66,8 @@ def update_recipe_db() -> dict:
         fields as in the `Entry` dataclass.
     """
     with open(DB_PATH, "r", encoding="utf-8") as fh:
-        recipes: list[dict] = json.load(fh)
-    all_recipe_names = {r["recipe"] for r in recipes}
+        recipes_db: list[dict] = json.load(fh)
+    all_recipe_names = {r["recipe"] for r in recipes_db}
     nav = {}
 
     for file in ROOT_PATH.glob("*/*.md"):
@@ -80,21 +80,21 @@ def update_recipe_db() -> dict:
             name = name.replace("Abuela", "Abuela's")
         if file.name == "index.md" or name in all_recipe_names:
             continue
-        recipes.append(Entry(recipe=name, section=section).to_dict())
+        recipes_db.append(Entry(recipe=name, section=section).to_dict())
 
-    recipes.sort(key=lambda r: r["recipe"])
+    recipes_db.sort(key=lambda r: r["recipe"])
 
     empty_entry = Entry("", "").to_dict()
-    for recipe in recipes:
+    for recipe in recipes_db:
         for k, v in empty_entry.items():
             if k not in recipe:
                 recipe[k] = v
 
     with open(DB_PATH, "w", encoding="utf-8") as fh:
-        json.dump(recipes, fh, indent=3)
+        json.dump(recipes_db, fh, indent=3)
     print_navigation(nav)
 
-    return recipes
+    return recipes_db
 
 
 def create_md_index_table(recipes_db: dict, section: str = "") -> str:
@@ -112,7 +112,7 @@ def create_md_index_table(recipes_db: dict, section: str = "") -> str:
         if r["annotation"] != "":
             r_name += f" {r['annotation']}"
 
-        r_link = r["recipe"].lower().replace(" ", "_") + ".md"
+        r_link = r["recipe"].lower().replace("'s", "").replace(" ", "_") + ".md"
         if section == "":
             r_link = f"{r['section']}/{r_link}"
 
@@ -132,6 +132,16 @@ def create_md_index_table(recipes_db: dict, section: str = "") -> str:
 
 def update_index_md_files(recipes_db: dict):
     """Iterates over all the folders and updates the indexes for the recipes."""
+    section_titles = {
+        "doughs": "Doughs: Bread & Pasta",
+        "drinks": "Drinks",
+        "preserves": "Preserves & Jams",
+        "sauces": "Sauces",
+        "sides": "Side Dishes, Tapas and Accompaniments",
+        "stews": "Stews",
+        "sweets": "Sweets",
+    }
+
     # Iterating over all section index files...
     for idx_file in ROOT_PATH.glob("*/index.md"):
         section = idx_file.parent.name
@@ -140,7 +150,7 @@ def update_index_md_files(recipes_db: dict):
         with open(idx_file, "w", encoding="utf-8") as fh:
             fh.write(
                 f"---\ntitle: {section.title()}\n---\n\n"
-                f"# {section.title()}\n\n{md_table}"
+                f"# {section_titles[section]}\n\n{md_table}"
             )
 
 
