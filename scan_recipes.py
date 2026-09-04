@@ -41,7 +41,7 @@ class Entry:
 
 def print_navigation(nav: dict):
     """Terminal print of the navigation for `zensical.toml` (already formatted)."""
-    final_nav = [{"Home": "index.md"}]
+    final_nav = [{"Home": ["index.md", "all_recipes.md"]}]
     for section_title in sorted(nav):
         # Sorting contents alphabetically, with the file 'index.md' as first.
         section_content = [f for f in nav[section_title] if "index.md" in f]
@@ -110,7 +110,7 @@ def create_md_index_table(recipes_db: dict, section: str = "") -> str:
 
         r_name = r["recipe"]
         if r["annotation"] != "":
-            r_name += f" {r['annotation']}"
+            r_name += f" ({r['annotation']})"
 
         r_link = r["recipe"].lower().replace("'s", "").replace(" ", "_") + ".md"
         if section == "":
@@ -152,6 +152,14 @@ def update_index_md_files(recipes_db: dict):
                 f"---\ntitle: {section.title()}\n---\n\n"
                 f"# {section_titles[section]}\n\n{md_table}"
             )
+
+    # Updating the main index...
+    md_table = create_md_index_table(recipes_db)
+    with open(ROOT_PATH / "all_recipes.md", "w", encoding="utf-8") as fh:
+        fh.write(
+            f"---\ntitle: Recipe Index\n---\n\n"
+            f"# Recipe Index\n\n{md_table}"
+        )
 
 
 if __name__ == "__main__":

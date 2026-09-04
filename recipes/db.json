@@ -119,11 +119,11 @@
       "annotation": ""
    },
    {
-      "recipe": "Ice Cream Jam",
+      "recipe": "Ice Cream",
       "section": "sweets",
-      "nationality": "global",
+      "nationality": "Italian",
       "image": "ice_cream_jam.jpg",
-      "annotation": ""
+      "annotation": "Jam / Berries"
    },
    {
       "recipe": "Kiwi Confiture",
@@ -191,7 +191,7 @@
    {
       "recipe": "Salsa Brava",
       "section": "sauces",
-      "nationality": "",
+      "nationality": "Spanish",
       "image": "",
       "annotation": ""
    },

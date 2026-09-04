@@ -13,7 +13,7 @@ extra_css = [
 ]
 
 nav = [
-    { "Home" = "index.md" },
+    { "Home" = ["index.md", "all_recipes.md"] },
     { "Doughs" = ["doughs/index.md",
         "doughs/corn_tortillas.md",
         "doughs/focaccia.md",
