@@ -4,7 +4,7 @@ title: Recipe Index
 
 # All Recipes
 
-Total recipes: 32
+Total recipes: 33
 
 |Recipe|Origin|Section|
 |:---|:---|:---|
@@ -12,6 +12,7 @@ Total recipes: 32
 |[Abuela's Cheesecake (Cuajada y Queso)](sweets/abuela_cheesecake.md)|Spanish :flag_es:|sweets|
 |[Cold Brew (Coffee)](drinks/cold_brew.md)|Japanese :flag_jp:|drinks|
 |[Corn Tortillas](doughs/corn_tortillas.md)|Mexican :flag_mx:|doughs|
+|[Croquetas](sides/croquetas.md)|--|sides|
 |[Empanada Gallega](sides/empanada_gallega.md)|Spanish :flag_es:|sides|
 |[Flan](sweets/flan.md)|Spanish :flag_es:|sweets|
 |[Focaccia](doughs/focaccia.md)|Italian :flag_it:|doughs|
