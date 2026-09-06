@@ -3,7 +3,8 @@ tags:
   - Tapas
   - Mediterranean
   - Spanish
-  - Food-saving
+  - Leftover-saving
+  - Side-dish
 ---
 
 # Croquetas (Spanish croquets)
