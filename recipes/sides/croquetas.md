@@ -21,7 +21,7 @@ There is even a saying in Spain: _Quien te quiere te hará croquetas_ (Who loves
 - _Flour_ (50 g)
 - _Corn flour_ (20 g)
 - _Broth_ (200 mL) - Recommended chicken broth, but it can be any type.
-- _Milk_ (500 mL approx.) - Should be lukewarm.
+- _Milk_ (250 mL approx.) - Should be lukewarm.
 - _Filling_ - Meat (chicken or pork cubes), mushrooms or anything your heart desires.
 - _Egg, flour and bread crumbs_
 
