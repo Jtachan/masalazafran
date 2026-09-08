@@ -1,0 +1,6 @@
+# For the documents
+zensical
+
+# Python scripting
+ruff
+tomli-w

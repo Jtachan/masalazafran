@@ -3,74 +3,113 @@ site_name = "Masala & Azafran"
 site_description = "International recipes from an indo-hispanic kitchen."
 site_author = "Jtachan"
 docs_dir = "recipes"
-
 extra_javascript = [
     "https://unpkg.com/tablesort@5.3.0/dist/tablesort.min.js",
     "_js/tablesort.js",
 ]
 extra_css = [
-    "stylesheet.css"
+    "stylesheet.css",
 ]
 
-nav =  [{"Home"= ["index.md", "all_recipes.md"]},
- {"Doughs"= ["doughs/index.md",
-             "doughs/corn_tortillas.md",
-             "doughs/focaccia.md",
-             "doughs/fresh_pasta.md",
-             "doughs/gnocchi.md",
-             "doughs/green_pasta.md",
-             "doughs/gyoza_wrapper.md",
-             "doughs/knedliky.md",
-             "doughs/liquid_roti.md",
-             "doughs/naan.md",
-             "doughs/pizza_dough.md",
-             "doughs/sourdough.md"]},
- {"Drinks"= ["drinks/index.md",
-             "drinks/cold_brew.md",
-             "drinks/ginger_shot.md"]},
- {"Preserves"= ["preserves/index.md", "preserves/kiwi_confiture.md"]},
- {"Sauces"= ["sauces/index.md",
-             "sauces/guacamole.md",
-             "sauces/salsa_brava.md",
-             "sauces/tzatziki.md"]},
- {"Sides"= ["sides/index.md",
-            "sides/croquetas.md",
-            "sides/empanada_gallega.md",
-            "sides/frijoles_paste.md",
-            "sides/migas.md",
-            "sides/potato_au_gratin.md",
-            "sides/quiche.md",
-            "sides/saute_mushrooms.md"]},
- {"Stews"= ["stews/index.md",
-            "stews/goulash.md",
-            "stews/gypsy_pot.md",
-            "stews/lentejas.md"]},
- {"Sweets"= ["sweets/index.md",
-             "sweets/abuela_apple_cake.md",
-             "sweets/abuela_cheesecake.md",
-             "sweets/flan.md",
-             "sweets/frozen_yoghurt.md",
-             "sweets/ice_cream.md",
-             "sweets/tiramisu.md"]}]
+[[project.nav]]
+Home = [
+    "index.md",
+    "all_recipes.md",
+]
+
+[[project.nav]]
+Doughs = [
+    "doughs/index.md",
+    "doughs/corn_tortillas.md",
+    "doughs/focaccia.md",
+    "doughs/fresh_pasta.md",
+    "doughs/gnocchi.md",
+    "doughs/green_pasta.md",
+    "doughs/gyoza_wrapper.md",
+    "doughs/knedliky.md",
+    "doughs/liquid_roti.md",
+    "doughs/naan.md",
+    "doughs/pizza_dough.md",
+    "doughs/sourdough.md",
+]
+
+[[project.nav]]
+Drinks = [
+    "drinks/index.md",
+    "drinks/cold_brew.md",
+    "drinks/ginger_shot.md",
+]
+
+[[project.nav]]
+Preserves = [
+    "preserves/index.md",
+    "preserves/kiwi_confiture.md",
+]
+
+[[project.nav]]
+Sauces = [
+    "sauces/index.md",
+    "sauces/guacamole.md",
+    "sauces/salsa_brava.md",
+    "sauces/tzatziki.md",
+]
+
+[[project.nav]]
+Sides = [
+    "sides/index.md",
+    "sides/croquetas.md",
+    "sides/empanada_gallega.md",
+    "sides/frijoles_paste.md",
+    "sides/migas.md",
+    "sides/potato_au_gratin.md",
+    "sides/quiche.md",
+    "sides/saute_mushrooms.md",
+]
+
+[[project.nav]]
+Stews = [
+    "stews/index.md",
+    "stews/goulash.md",
+    "stews/gypsy_pot.md",
+    "stews/lentejas.md",
+]
+
+[[project.nav]]
+Sweets = [
+    "sweets/index.md",
+    "sweets/abuela_apple_cake.md",
+    "sweets/abuela_cheesecake.md",
+    "sweets/flan.md",
+    "sweets/frozen_yoghurt.md",
+    "sweets/ice_cream.md",
+    "sweets/tiramisu.md",
+]
 
 [project.markdown_extensions.pymdownx.details]
-[project.markdown_extensions.tables]
-[project.markdown_extensions.attr_list]
-[project.markdown_extensions.admonition]
+
 [project.markdown_extensions.pymdownx.superfences]
-[project.markdown_extensions.def_list]
 
 [project.markdown_extensions.pymdownx.emoji]
 emoji_index = "zensical.extensions.emoji.twemoji"
 emoji_generator = "zensical.extensions.emoji.to_svg"
-options.custom_icons = ["overrides/.icons"]
+
+[project.markdown_extensions.pymdownx.emoji.options]
+custom_icons = [
+    "overrides/.icons",
+]
+
+[project.markdown_extensions.tables]
+
+[project.markdown_extensions.attr_list]
+
+[project.markdown_extensions.admonition]
+
+[project.markdown_extensions.def_list]
 
 [project.theme]
 custom_dir = "overrides"
-icon = { logo = "bootstrap/favicon" }
 favicon = "favicon.svg"
 language = "en"
-
 features = [
     "content.footnote.tooltips",
     "content.tabs.link",
@@ -91,8 +130,9 @@ features = [
     "toc.follow",
     "toc.integrate",
 ]
+palette = [
+    { scheme = "default", primary = "indigo", accent = "indigo" },
+]
 
-[[project.theme.palette]]
-scheme = "default"
-primary = "indigo"
-accent = "indigo"
+[project.theme.icon]
+logo = "bootstrap/favicon"

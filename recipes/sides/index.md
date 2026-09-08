@@ -6,7 +6,7 @@ title: Sides
 
 |Recipe|Origin|
 |:---|:---|
-|[Croquetas](croquetas.md)|--|
+|[Croquetas](croquetas.md)|Spanish :flag_es:|
 |[Empanada Gallega](empanada_gallega.md)|Spanish :flag_es:|
 |[Frijoles Paste](frijoles_paste.md)|Mexican :flag_mx:|
 |[Migas](migas.md)|Spanish :flag_es:|

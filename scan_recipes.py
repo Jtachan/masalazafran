@@ -4,10 +4,13 @@ The update happens only for recipes that do not appear at the current database.
 Some keys are not input (like the nationality). These must be manually updated.
 """
 
-import json
-from pathlib import Path
 import dataclasses as dtc
+import json
 import pprint
+from pathlib import Path
+
+import tomli_w
+import tomllib
 
 ROOT_PATH = Path(__file__).resolve().parent / "recipes"
 DB_PATH = ROOT_PATH / "db.json"
@@ -39,7 +42,7 @@ class Entry:
         return dtc.asdict(self)
 
 
-def print_navigation(nav: dict):
+def update_navigation(nav: dict):
     """Terminal print of the navigation for `zensical.toml` (already formatted)."""
     final_nav = [{"Home": ["index.md", "all_recipes.md"]}]
     for section_title in sorted(nav):
@@ -49,6 +52,13 @@ def print_navigation(nav: dict):
             [f for f in sorted(nav[section_title]) if "index.md" not in f]
         )
         final_nav.append({section_title: section_content})
+
+    with open("zensical.toml", "rb") as fh:
+        zensical_cfg = tomllib.load(fh)
+
+    zensical_cfg["project"]["nav"] = final_nav
+    with open("zensical.toml", "wb") as fh:
+        tomli_w.dump(zensical_cfg, fh)
 
     print(
         "New navigation:\n",
@@ -92,7 +102,7 @@ def update_recipe_db() -> dict:
 
     with open(DB_PATH, "w", encoding="utf-8") as fh:
         json.dump(recipes_db, fh, indent=3)
-    print_navigation(nav)
+    update_navigation(nav)
 
     return recipes_db
 
