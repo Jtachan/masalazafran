@@ -12,6 +12,8 @@ tags:
 One of the most loved recipes for any spaniard.
 There is even a saying in Spain: _Quien te quiere te hará croquetas_ (Who loves you will cook croquetas for you)
 
+<img alt="Croquetas" src="../_imgs/croquetas.jpg" width=500>
+
 ---
 
 **Ingredients**
@@ -40,7 +42,7 @@ There is even a saying in Spain: _Quien te quiere te hará croquetas_ (Who loves
 2. Chop the onion in small pieces. Add the oil and butter to a pot and stir-fry the onion at medium heat with some salt until it becomes golden. 
 3. Add the flour and corn flour and let it cook at low flame for :clock: 2~3 minutes.
 4. Add the broth while stirring until it is well incorporated. Add it little by little and don't stop stirring to avoid lumps.
-5. Add the milk just like in the previous step.
+5. Add the milk just like in the previous step. Cook it at mid-low fire until it thickens to a point that you can pass the spoon through it, making a path, and the sides do not merge very fast.
 6. When the béchamel is ready, add the filling. Mix well all together and turn off the fire.
 7. Put the mix in a container, lay some plastic film on top (to avoid a crust to form) and move the container into the fridge. Let it rest at least :clock: 4 hours.
 8. Give the croquets shape, one way is to use two soup spoons. Then put each one in flour, then egg and then bread. Optionally, you can coat each croquet twice for it to have a more consistent crust.
