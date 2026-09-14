@@ -9,8 +9,7 @@ import json
 import pprint
 from pathlib import Path
 
-import tomli_w
-import tomllib
+import toml_rs
 
 ROOT_PATH = Path(__file__).resolve().parent / "recipes"
 DB_PATH = ROOT_PATH / "db.json"
@@ -54,11 +53,11 @@ def update_navigation(nav: dict):
         final_nav.append({section_title: section_content})
 
     with open("zensical.toml", "rb") as fh:
-        zensical_cfg = tomllib.load(fh)
+        zensical_cfg = toml_rs.load(fh)
 
     zensical_cfg["project"]["nav"] = final_nav
-    with open("zensical.toml", "wb") as fh:
-        tomli_w.dump(zensical_cfg, fh)
+    with open("zensical.toml", "w", encoding="utf-8") as fh:
+        toml_rs.dump(zensical_cfg, fh, pretty=True)
 
     print(
         "New navigation:\n",

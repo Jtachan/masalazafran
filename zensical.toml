@@ -7,9 +7,7 @@ extra_javascript = [
     "https://unpkg.com/tablesort@5.3.0/dist/tablesort.min.js",
     "_js/tablesort.js",
 ]
-extra_css = [
-    "stylesheet.css",
-]
+extra_css = ["stylesheet.css"]
 
 [[project.nav]]
 Home = [
@@ -94,9 +92,7 @@ emoji_index = "zensical.extensions.emoji.twemoji"
 emoji_generator = "zensical.extensions.emoji.to_svg"
 
 [project.markdown_extensions.pymdownx.emoji.options]
-custom_icons = [
-    "overrides/.icons",
-]
+custom_icons = ["overrides/.icons"]
 
 [project.markdown_extensions.tables]
 
@@ -130,9 +126,11 @@ features = [
     "toc.follow",
     "toc.integrate",
 ]
-palette = [
-    { scheme = "default", primary = "indigo", accent = "indigo" },
-]
+
+[[project.theme.palette]]
+scheme = "default"
+primary = "indigo"
+accent = "indigo"
 
 [project.theme.icon]
 logo = "bootstrap/favicon"

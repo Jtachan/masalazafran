@@ -3,4 +3,4 @@ zensical
 
 # Python scripting
 ruff
-tomli-w
+toml-rs
