@@ -143,23 +143,20 @@ def update_index_md_files(recipes_db: dict):
     """Iterates over all the folders and updates the indexes for the recipes."""
     section_titles = {
         "doughs": "Doughs: Bread & Pasta",
-        "drinks": "Drinks",
         "preserves": "Preserves & Jams",
-        "sauces": "Sauces",
         "sides": "Side Dishes, Tapas and Accompaniments",
-        "stews": "Stews",
-        "sweets": "Sweets",
     }
 
     # Iterating over all section index files...
     for idx_file in ROOT_PATH.glob("*/index.md"):
         section = idx_file.parent.name
         md_table = create_md_index_table(recipes_db, section)
+        sec_title = section_titles.get(section, section.title())
 
         with open(idx_file, "w", encoding="utf-8") as fh:
             fh.write(
                 f"---\ntitle: {section.title()}\n---\n\n"
-                f"# {section_titles[section]}\n\n{md_table}"
+                f"# {sec_title}\n\n{md_table}"
             )
 
     # Updating the main index...
