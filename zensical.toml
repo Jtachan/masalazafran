@@ -39,6 +39,12 @@ Drinks = [
 ]
 
 [[project.nav]]
+Fish = [
+    "fish/index.md",
+    "fish/orange_salmon.md",
+]
+
+[[project.nav]]
 Preserves = [
     "preserves/index.md",
     "preserves/kiwi_confiture.md",

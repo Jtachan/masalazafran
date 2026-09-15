@@ -4,7 +4,7 @@ title: Recipe Index
 
 # All Recipes
 
-Total recipes: 33
+Total recipes: 34
 
 |Recipe|Origin|Section|
 |:---|:---|:---|
@@ -33,6 +33,7 @@ Total recipes: 33
 |[Liquid Roti](doughs/liquid_roti.md)|Indian :flag_in:|doughs|
 |[Migas](sides/migas.md)|Spanish :flag_es:|sides|
 |[Naan](doughs/naan.md)|Indian :flag_in:|doughs|
+|[Orange Salmon](fish/orange_salmon.md)|Spanish :flag_es:|fish|
 |[Pizza Dough](doughs/pizza_dough.md)|Italian :flag_it:|doughs|
 |[Potato Au Gratin](sides/potato_au_gratin.md)|French :flag_fr:|sides|
 |[Quiche](sides/quiche.md)|French :flag_fr:|sides|
