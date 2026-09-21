@@ -53,6 +53,7 @@ Preserves = [
 [[project.nav]]
 Sauces = [
     "sauces/index.md",
+    "sauces/aioli.md",
     "sauces/guacamole.md",
     "sauces/salsa_brava.md",
     "sauces/tzatziki.md",

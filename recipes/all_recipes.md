@@ -4,12 +4,13 @@ title: Recipe Index
 
 # All Recipes
 
-Total recipes: 34
+Total recipes: 35
 
 |Recipe|Origin|Section|
 |:---|:---|:---|
 |[Abuela's Apple Cake](sweets/abuela_apple_cake.md)|Spanish :flag_es:|sweets|
 |[Abuela's Cheesecake (Cuajada y Queso)](sweets/abuela_cheesecake.md)|Spanish :flag_es:|sweets|
+|[Aioli](sauces/aioli.md)|--|sauces|
 |[Cold Brew (Coffee)](drinks/cold_brew.md)|Japanese :flag_jp:|drinks|
 |[Corn Tortillas](doughs/corn_tortillas.md)|Mexican :flag_mx:|doughs|
 |[Croquetas](sides/croquetas.md)|Spanish :flag_es:|sides|
