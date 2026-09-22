@@ -4,13 +4,13 @@ title: Recipe Index
 
 # All Recipes
 
-Total recipes: 35
+Total recipes: 36
 
 |Recipe|Origin|Section|
 |:---|:---|:---|
 |[Abuela's Apple Cake](sweets/abuela_apple_cake.md)|Spanish :flag_es:|sweets|
 |[Abuela's Cheesecake (Cuajada y Queso)](sweets/abuela_cheesecake.md)|Spanish :flag_es:|sweets|
-|[Aioli](sauces/aioli.md)|--|sauces|
+|[Aioli](sauces/aioli.md)|Spanish :flag_es:|sauces|
 |[Cold Brew (Coffee)](drinks/cold_brew.md)|Japanese :flag_jp:|drinks|
 |[Corn Tortillas](doughs/corn_tortillas.md)|Mexican :flag_mx:|doughs|
 |[Croquetas](sides/croquetas.md)|Spanish :flag_es:|sides|
@@ -30,6 +30,7 @@ Total recipes: 35
 |[Ice Cream (Jam / Berries)](sweets/ice_cream.md)|Italian :flag_it:|sweets|
 |[Kiwi Confiture](preserves/kiwi_confiture.md)|--|preserves|
 |[Knedliky](doughs/knedliky.md)|Czech :flag_cz:|doughs|
+|[Koriander Chutney](sauces/koriander_chutney.md)|Indian :flag_in:|sauces|
 |[Lentejas](stews/lentejas.md)|Spanish :flag_es:|stews|
 |[Liquid Roti](doughs/liquid_roti.md)|Indian :flag_in:|doughs|
 |[Migas](sides/migas.md)|Spanish :flag_es:|sides|
