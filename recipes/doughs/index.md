@@ -7,6 +7,7 @@ title: Doughs
 |Recipe|Origin|
 |:---|:---|
 |[Corn Tortillas](corn_tortillas.md)|Mexican :flag_mx:|
+|[Crepe](crepe.md)|French :flag_fr:|
 |[Focaccia](focaccia.md)|Italian :flag_it:|
 |[Fresh Pasta](fresh_pasta.md)|Italian :flag_it:|
 |[Gnocchi](gnocchi.md)|Italian :flag_it:|

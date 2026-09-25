@@ -4,7 +4,7 @@ title: Recipe Index
 
 # All Recipes
 
-Total recipes: 36
+Total recipes: 37
 
 |Recipe|Origin|Section|
 |:---|:---|:---|
@@ -13,6 +13,7 @@ Total recipes: 36
 |[Aioli](sauces/aioli.md)|Spanish :flag_es:|sauces|
 |[Cold Brew (Coffee)](drinks/cold_brew.md)|Japanese :flag_jp:|drinks|
 |[Corn Tortillas](doughs/corn_tortillas.md)|Mexican :flag_mx:|doughs|
+|[Crepe](doughs/crepe.md)|French :flag_fr:|doughs|
 |[Croquetas](sides/croquetas.md)|Spanish :flag_es:|sides|
 |[Empanada Gallega](sides/empanada_gallega.md)|Spanish :flag_es:|sides|
 |[Flan](sweets/flan.md)|Spanish :flag_es:|sweets|

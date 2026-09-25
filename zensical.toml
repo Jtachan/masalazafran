@@ -19,6 +19,7 @@ Home = [
 Doughs = [
     "doughs/index.md",
     "doughs/corn_tortillas.md",
+    "doughs/crepe.md",
     "doughs/focaccia.md",
     "doughs/fresh_pasta.md",
     "doughs/gnocchi.md",
