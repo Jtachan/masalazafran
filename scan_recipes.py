@@ -155,8 +155,7 @@ def update_index_md_files(recipes_db: dict):
 
         with open(idx_file, "w", encoding="utf-8") as fh:
             fh.write(
-                f"---\ntitle: {section.title()}\n---\n\n"
-                f"# {sec_title}\n\n{md_table}"
+                f"---\ntitle: {section.title()}\n---\n\n# {sec_title}\n\n{md_table}"
             )
 
     # Updating the main index...

@@ -4,7 +4,7 @@ title: Recipe Index
 
 # All Recipes
 
-Total recipes: 37
+Total recipes: 38
 
 |Recipe|Origin|Section|
 |:---|:---|:---|
@@ -45,3 +45,4 @@ Total recipes: 37
 |[Sourdough](doughs/sourdough.md)|--|doughs|
 |[Tiramisu](sweets/tiramisu.md)|Italian :flag_it:|sweets|
 |[Tzatziki](sauces/tzatziki.md)|Greek :flag_gr:|sauces|
+|[Whisky-Steak](meat/whisky-steak.md)|Spanish :flag_es:|meat|

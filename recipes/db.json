@@ -257,5 +257,12 @@
       "nationality": "Greek",
       "image": "",
       "annotation": ""
+   },
+   {
+      "recipe": "Whisky-Steak",
+      "section": "meat",
+      "nationality": "Spanish",
+      "image": "whisky-steak.jpeg",
+      "annotation": ""
    }
 ]
