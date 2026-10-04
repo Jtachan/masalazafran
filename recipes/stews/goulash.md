@@ -17,7 +17,7 @@ This recipe should not be done in small quantities, and using a pressure-cook (6
 
 ---
 
-**Ingredients**
+**Ingredients** (4 portions)
 
 - _Beef_ (500 g) — Chop in cubes of side 1 cm.
 - _Onion_ (200 g) — You could use double the onion, it is a nice add.
