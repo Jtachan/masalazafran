@@ -15,7 +15,7 @@ This recipe is for one pizza of approx 28 cm diameter.
 
 ---
 
-**Ingredients**
+**Ingredients** (1 medium pizza)
 
 - _Pizza flour_ (260 g)
 - _Yeast_ (12 g fresh / 4 g dry)
