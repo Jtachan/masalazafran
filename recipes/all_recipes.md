@@ -4,7 +4,7 @@ title: Recipe Index
 
 # All Recipes
 
-Total recipes: 38
+Total recipes: 39
 
 |Recipe|Origin|Section|
 |:---|:---|:---|
@@ -16,6 +16,7 @@ Total recipes: 38
 |[Crepe](doughs/crepe.md)|French :flag_fr:|doughs|
 |[Croquetas](sides/croquetas.md)|Spanish :flag_es:|sides|
 |[Empanada Gallega](sides/empanada_gallega.md)|Spanish :flag_es:|sides|
+|[Fermented Chili](preserves/fermented_chili.md)|Indonesian :flag_id:|preserves|
 |[Flan](sweets/flan.md)|Spanish :flag_es:|sweets|
 |[Focaccia](doughs/focaccia.md)|Italian :flag_it:|doughs|
 |[Fresh Pasta](doughs/fresh_pasta.md)|Italian :flag_it:|doughs|

@@ -54,6 +54,7 @@ Meat = [
 [[project.nav]]
 Preserves = [
     "preserves/index.md",
+    "preserves/fermented_chili.md",
     "preserves/kiwi_confiture.md",
 ]
 
