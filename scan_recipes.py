@@ -10,21 +10,12 @@ import pprint
 from pathlib import Path
 
 import toml_rs
+import frontmatter
+
+from country_flags import WORLD_MD_FLAGS_MAP
 
 ROOT_PATH = Path(__file__).resolve().parent / "recipes"
 DB_PATH = ROOT_PATH / "db.json"
-
-
-WORLD_MD_FLAGS_MAP = {
-    "Spanish": ":flag_es:",
-    "Italian": ":flag_it:",
-    "French": ":flag_fr:",
-    "Greek": ":flag_gr:",
-    "Indian": ":flag_in:",
-    "Japanese": ":flag_jp:",
-    "Mexican": ":flag_mx:",
-    "Czech": ":flag_cz:",
-}
 
 
 @dtc.dataclass
@@ -89,7 +80,9 @@ def update_recipe_db() -> dict:
             name = name.replace("Abuela", "Abuela's")
         if file.name == "index.md" or name in all_recipe_names:
             continue
-        recipes_db.append(Entry(recipe=name, section=section).to_dict())
+        metadata = frontmatter.load(file)
+        nationality = next((t for t in metadata["tags"] if t in WORLD_MD_FLAGS_MAP), "")
+        recipes_db.append(Entry(recipe=name, section=section, nationality=nationality).to_dict())
 
     recipes_db.sort(key=lambda r: r["recipe"])
 

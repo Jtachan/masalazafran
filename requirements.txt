@@ -4,3 +4,4 @@ zensical
 # Python scripting
 ruff
 toml-rs
+python-frontmatter
