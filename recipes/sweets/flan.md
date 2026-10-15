@@ -37,8 +37,8 @@ For the flan:
 
 **Steps**
 
-1. Put the milk at medium heat with the lemon peel and the cinnamon stick. When it is about to boil, put it away from the heat and let it cool down for around :clock: 30 minutes.
-2. Mix the eggs and the sugar. Once they are incorporated, mix them with the milk.
+1. Put the _milk_ at medium heat with the _lemon peel_ and the _cinnamon stick_. When it is about to boil, put it away from the heat and let it cool down for around :clock: 30 minutes.
+2. Mix the _eggs_ and the _sugar_. Once they are incorporated, mix them with the milk.
 3. Remove the lemon peel and the cinnamon from the milk, then pass it through a sieve.
 4. Make the caramel by cooking the sugar and water together at medium-low heat, always stirring.
 5. Pour the caramel at the final containers for the flan, then put the flan mix on top. Cover the top of the containers with aluminum foil.

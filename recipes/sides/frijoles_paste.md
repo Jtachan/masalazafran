@@ -33,18 +33,10 @@ This recipe is prepared for anyone to be able to cook it with ingredients availa
 
 **Steps**
 
-1. Open the canned beans and put them in a food processor (without the liquid of inside the can). 
-Add also the chicken broth until all the beans are barely covered.
-If the broth is powder, add water with the same proportion.
-
-2. Process (or blend) all the beans until a paste is created.
-The final process is more enjoyable if it is still a little bit ckunky.
-
-3. Chop the onion in small pieces and fry it with some oil at medium heat. Be patient and let it brown.
-
-4. Once the onion is ready, add the lard or any aromatic fat (which will give a lot of flavor) and the paste of frijoles once the lard has melted.
-Add also all the spices to taste: salt, cumin, coriander, etc.
-Let it all cook for about 10 minutes, stirring from time to time.
+1. Open the canned _beans_ and put them in a food processor (without the liquid of inside the can). Add also the _chicken broth_ until all the beans are barely covered. If the broth is powder, add water with the same proportion.
+2. Process (or blend) all the beans until a paste is created. The final process is more enjoyable if it is still a little bit chunky.
+3. Chop the _onion_ in small pieces and fry it with some oil at medium heat. Be patient and let it brown.
+4. Once the onion is ready, add the _lard_ or any aromatic fat (which will give a lot of flavor) and the paste of frijoles once the lard has melted. Add also all the spices to taste: _salt_, _cumin_, _coriander_, etc. Let it all cook for about 10 minutes, stirring from time to time.
 
 !!! Tip
     Garnish the paste with some cottage cheese.

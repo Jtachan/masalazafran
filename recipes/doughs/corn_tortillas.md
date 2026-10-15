@@ -28,9 +28,9 @@ The corn tortillas are the true mexican bread, always perfect to have a taco-nig
 
 **Steps**
 
-1. Mix the flour with a pitch of salt in one bowl.
+1. Mix the _flour_ with a pitch of _salt_ in one bowl.
 
-2. Add the boiling water and mix with a fork until. 
+2. Add the _boiling water_ and mix with a fork until. 
 After all the water has been absorbed by the flour, add the tap water and mix with your hand until everything is integrated into the same dough.
 
 3. Cover the dough and let it sit for :clock: 10 minutes.

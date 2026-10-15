@@ -22,14 +22,19 @@ This recipe is designed for a sourdough of **75% hydration**.
 - _Lukewarm water_ (375 mL)
 - _Sourdough starter_ (100 g)
 
+!!! Note
+    To make the _starter_ add in a container two spoons of flour with the same quantity of water.
+    The next day do the same. From the third day on, take away half of the mix and add more water and flour.
+    Keep doing this to maintain the starter alive.
+
 ---
 
 **Steps**
 
-1. **Feed** and activate **the starter the night before** by taking it out of the fridge and feeding it.
+1. Feed and activate the _starter_ the night before by taking it out of the fridge and feeding it.
 Feed it again in the morning a do the _float test_<sup>1</sup>.
-2. Mix all the **flour and water** together and stir gently until everything is incorporated. Let it rest :clock: 30 minutes.
-3. **Add the starter** to the dough and incorporate it by pinching the dough and folding it onto the starter.
+2. Mix all the _flour_ and _water_ together and stir gently until everything is incorporated. Let it rest :clock: 30 minutes.
+3. Add the _starter_ to the dough and incorporate it by pinching the dough and folding it onto the starter.
 4. Add salt and equal part of water and incorporate again by pinch-claw. Let it rest for :clock: 10~15 minutes.
 5. Wet your hand, then stretch the dough by **folding it** from the bottom to the top, rotating it 90 degrees and folding it again. Repeat this step for :clock: 10 minutes, then do the _windowpane test_<sup>2</sup> to know the dough is ready.
 6. Move the dough to a clean (and transparent) bowl. Make a mark and let it ferment for :clock: 1 hour.

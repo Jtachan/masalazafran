@@ -23,10 +23,7 @@ Once prepared, it is perfect for eating as a sandwich or as a dip with sauces.
 - _Yeast_ (5 g)
 - _Salt_ (9 g)
 - _Olive oil_
-- _Desired topping_\*
-
-!!! Note
-    The topping to put on top of the focaccia can be almost anything, but vegetables are recommended.
+- _Desired topping_ — Anything works, but vegetables are recommended.
 
 ---
 

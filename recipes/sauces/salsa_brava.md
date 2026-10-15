@@ -15,15 +15,15 @@ There are many recipes of the same sauce, as each household would prepare it the
 **Ingredients**
 
 - _5 Onions_
-- _2 Long red chilies_ — Should be spicy
+- _2 Long red chilis_ — Should be spicy
 - _1 Tomato_ (Optional) — To bring the spiciness down
 
 ---
 
 **Steps**
 
-1. Chop the onion and stir-fry it at medium heat until golden, around :clock: 20 minutes.
-2. Chop the chilies in big pieces and cook them for 5 minutes together with the onion. Optionally, also add the tomato.
+1. Chop the _onion_ and stir-fry it at medium heat until golden, around :clock: 20 minutes.
+2. Chop the _chilis_ in big pieces and cook them for 5 minutes together with the onion. Optionally, also add the _tomato_.
 3. Blend everything together until smooth.
 
 !!! Note

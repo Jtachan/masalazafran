@@ -22,6 +22,6 @@ Delicious and simple Spanish recipe to cook salmon or any other fish.
 
 **Steps**
 
-1. Slice the garlic and put it to fry at low-mid fire for :clock: 2 minutes.
-2. Put the fish (skin on the pan first) and cook it at mid-high fire.
-3. Add the orange juice together with the herbs. Lower the fire and let it cook until the juice is reduced.
+1. Slice the _garlic_ and put it to fry at low-mid fire for :clock: 2 minutes.
+2. Put the _fish_ (skin on the pan first) and cook it at mid-high fire.
+3. Add the _orange juice_ together with the _herbs_. Lower the fire and let it cook until the juice is reduced.

@@ -24,6 +24,6 @@ Take them mostly in winter for better health.
 
 **Steps**
 
-1. Wash the ginger and optionally peel it.
+1. Wash the _ginger_ and optionally peel it.
 2. Add all ingredients into a blender and blend together. Optionally, pass the juice through a sieve to remove all clumps.
 3. Alternatively, grate the ginger and squish as much juice as possible. Then mix all the liquids together.

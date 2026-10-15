@@ -25,8 +25,8 @@ tags:
 
 **Steps**
 
-1. Chop all the mushrooms in quarters and the garlic fine.
-2. Put the butter in the pan at mid-heat and wait until it is fully melted.
-3. Add the garlic and cook it for :clock: 30 seconds.
-4. Add the mushrooms and cook for :clock: 10 - 12 minutes, adding salt and pepper.
+1. Chop all the _mushrooms_ in quarters and the garlic fine.
+2. Put the _butter_ in the pan at mid-heat and wait until it is fully melted.
+3. Add the _garlic_ and cook it for :clock: 30 seconds.
+4. Add the mushrooms and cook for :clock: 10 - 12 minutes, adding _salt_ and _pepper_.
 5. Add parsley and plate it.

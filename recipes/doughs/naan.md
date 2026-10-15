@@ -33,9 +33,9 @@ The name 'naan' already means 'bread'.
 
 **Steps**
 
-1. Disolve in the milk the yeast and let it rest for :clock: 5 minutes to activate the yeast.
-2. In a bowl mix all the dry ingredients. Add the yoghurt and mix it as well as possible.
-3. Add little by little the milk integrating it until a dough is formed.
+1. Disolve in the _milk_ the _yeast_ and let it rest for :clock: 5 minutes to activate the yeast.
+2. In a bowl mix all the _dry ingredients_. Add the _yoghurt_ and mix it as well as possible.
+3. Add little by little the _milk_ integrating it until a dough is formed.
 4. Knead the dough for :clock: 10~15 minutes, until it becomes smooth.
 5. Put the dough to rest for :clock: 1 hour in a warm place.
 6. Separate the dough in 6 balls and let them rest for a few minutes. Meanwhile, preheat a pan on medium-high heat  

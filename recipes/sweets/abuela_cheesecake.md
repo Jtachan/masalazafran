@@ -31,10 +31,10 @@ This is one of those recipes that you must be patient and follow the instruction
 
 **Steps**
 
-1. With a food processor make crumbles from all the biscuits.
-2. Mix the crumbles with the butter and then put it in a cake-mold, compressing it. You can use the bottom of a glass to compress it.
-3. Disolve the gelatin in 200 mL of warm milk.
-4. In the same milk mix well the egg yolks and the cream cheese.
-5. Heat up the rest of the milk with the lemon beel. Whenever it is going to start boiling, lower the heat to medium-low.
-6. Remove the lemon peel and add the sugar and the other 200 mL of milk with the other ingredients. 
+1. With a food processor make crumbles from all the _biscuits_.
+2. Mix the crumbles with the _butter_ and then put it in a cake-mold, compressing it. You can use the bottom of a glass to compress it.
+3. Disolve the _gelatin_ in 200 mL of _warm milk_.
+4. In the same milk mix well the _egg yolks_ and the _cream cheese_.
+5. Heat up the rest of the _milk_ with the _lemon peel_. Whenever it is going to start boiling, lower the heat to medium-low.
+6. Remove the lemon peel and add the _sugar_ and the other 200 mL of milk with the other ingredients. 
 7. Pour the mix over the cookie-base made before. Let it chill for :clock: 30~40 minutes at room temperature, then cool it in the fridge for at least :clock: 4 hours.

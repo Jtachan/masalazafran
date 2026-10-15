@@ -20,7 +20,7 @@ Any fresh pasta can be easily stored in the freezer and only needs 2~4 minutes t
 
 **Ingredients** (per ratio)
 
-- _Egg_ (1 M)
+- _Egg_ (1 Medium)
 - _Flour_ (100 g)
 
 !!! Hint

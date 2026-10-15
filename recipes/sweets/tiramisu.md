@@ -33,12 +33,12 @@ A perfect dessert which becomes more tasty if you let it rest overnight before e
 
 **Steps**
 
-1. Prepare two different bowls to make the Mascarpone-batter. Separate the eggs' whites and yolks in these bowls.
-2. Mix the yolks with half of the sugar until homogeneous. Add the Mascarpone and mix until there is no clumps.
-3. For the whites, mix the other half of the sugar in them and beat them until soft peaks ("punto de nieve").
+1. Prepare two different bowls to make the _Mascarpone-batter_. Separate the _eggs_' whites and yolks in these bowls.
+2. Mix the _yolks_ with half of the _sugar_ until homogeneous. Add the Mascarpone and mix until there is no clumps.
+3. For the _whites_, mix the other half of the _sugar_ in them and beat them until soft peaks ("punto de nieve").
 4. Bix the yolk mixture into the white mixture in small batches, folding the mixture to integrate them.
 5. Prepare the container that will have the mascarpone with a thin base of the batter.
-6. Make a layer of ladyfingers on top of the previous layer. Each ladyfinger must first go quickly in-and-out the coffee (less than 1 second).
+6. Make a layer of _ladyfingers_ on top of the previous layer. Each ladyfinger must first go quickly in-and-out the _coffee_ (less than 1 second).
 7. Put a layer of the Mascarpone-batter. Repeat this step together with step 6 until the mold is full.
-8. The last layer should be a batter layer, where some cocoa is then sprinkled on top.
+8. The last layer should be a batter layer, where some _cocoa_ is then sprinkled on top.
 9. Let it rest minimum :clock: 2 hours in the fridge, but recommended to let it sit at least :clock: 8 hours (overnight).

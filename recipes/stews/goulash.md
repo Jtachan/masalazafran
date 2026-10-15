@@ -28,7 +28,7 @@ This recipe should not be done in small quantities, and using a pressure-cook (6
 - _Sweet paprika powder_
 - _Dried marjoram_ (1/2 tsp) — This herb is the same family as oregano.
 - _Bread crumbs_
-- _Jeera seeds_
+- _Cumin seeds_
 - _Bay leaves_ (2)
 - _Salt and pepper_
 
@@ -36,8 +36,8 @@ This recipe should not be done in small quantities, and using a pressure-cook (6
 
 **Steps**
 
-1. Chop the onions in slices and fry them on medium heat with the lard. Let them brown nicely.
-2. Add the jeera, paprika, tomato paste, garlic and sugar. Let it cook for :clock: 5 minutes.
-3. Add the beef, salt and pepper. Cook it for another :clock: 10~15 minutes.
-4. Cover with water, add the bay leaves and the marjoram. Cook it at medium heat for :clock: 3~5 hours in a normal por or for :clock: 1 hour in the pressure-cook.
+1. Chop the _onions_ in slices and fry them on medium heat with the lard. Let them brown nicely.
+2. Add the _cumin_, _paprika_, _tomato paste_, _garlic_ and _sugar_. Let it cook for :clock: 5 minutes.
+3. Add the _beef_, _salt_ and _pepper_. Cook it for another :clock: 10~15 minutes.
+4. Cover with _water_, add the _bay leaves_ and the _marjoram_. Cook it at medium heat for :clock: 3~5 hours in a normal por or for :clock: 1 hour in the pressure-cook.
 5. Add the bread crumbs, then bring for a last boil for :clock: 10~20 minutes.

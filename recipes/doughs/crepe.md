@@ -24,9 +24,9 @@ The filling can be either sweet or savory.
 
 **Steps**
 
-1. Put the flour in a bowl together with a pinch of salt.
-2. Make a hole in the center and crack the eggs in it. Mix them with the flour until they are well incorporated.
-3. Add the milk little by little, whisking everything together to avoid lumps.
+1. Put the _flour_ in a bowl together with a _pinch of salt_.
+2. Make a hole in the center and crack the _eggs_ in it. Mix them with the flour until they are well incorporated.
+3. Add the _milk_ little by little, whisking everything together to avoid lumps.
 4. Prepare the creps in a pan at mid-high fire. The measure of one ladle is enough for one crêpe.
 
 !!! Hint

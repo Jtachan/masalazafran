@@ -31,10 +31,10 @@ The original recipe my grandma used to make had a cup of yoghurt as the measurem
 
 **Steps**
 
-1. Peel 3 apples and chop them in pieces for the blender.
-2. Add to the blender the eggs, milk, oil, flour, sugar and a pinch of cinnamon. Blend everything until a smooth mix.
+1. Peel 3 _apples_ and chop them in pieces for the blender.
+2. Add to the blender the _eggs_, _milk_, _oil_, _flour_, _sugar_ and a pinch of _cinnamon_. Blend everything until a smooth mix.
 3. Prepare an oiled cake-mold and pour the mix in it.
-4. Chop the last apple in thin slices and put it on top of the cake.
+4. Chop the last _apple_ in thin slices and put it on top of the cake.
 5. Bake it at 180 °C for :clock: 1 hour.
 6. Let it sit until it cools down. Then let it rest in the fridge at least :clock: 2 hours.
 7. Add some jam on the top of the cake before serving.

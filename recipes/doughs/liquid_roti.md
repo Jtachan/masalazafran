@@ -32,11 +32,11 @@ A food-processor will be of help here at the first step
 
 **Steps**
 
-1. Finely **chop** all the **garlic** and reserve it.
-2. Mix all together the **water, flour** and a pinch of salt. The result should be a liquid dough which could be portioned with a ladle.
+1. Finely **chop** all the _garlic_ and reserve it.
+2. Mix all together the _water_, _flour_ and a _pinch of salt_. The result should be a liquid dough which could be portioned with a ladle.
 3. Mix the garlic into the liquid dough.
 4. Prepare a flat pan with some oil and heat it up on medium heat on the stove.
-5. Spread a portion of the mix on the pan and let it cook for :clock: 1.5~2 minutes on each side. Repeat this step until all the mix was used.
+5. Spread a portion of the mix on the pan and let it cook for :clock: 1:30~2 minutes on each side. Repeat this step until all the mix was used.
 
 !!! Tip
     Other ingredients could be added at step 3, for example, some herbs.

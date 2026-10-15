@@ -23,7 +23,7 @@ Compared to the normal [fresh pasta](fresh_pasta.md), this one provides a source
 
 **Steps**
 
-1. Blend the spinach with some water for :clock: 30 seconds.
+1. Blend the _spinach_ with some water for :clock: 30 seconds.
 2. Move the pure into a cheese cloth and squish all the water with your hands.
-3. Put the spinach into a blender with the egg and blend it.
+3. Put the spinach into a blender with the _egg_ and blend it.
 4. Mix everything with the flour and continue the steps at the [fresh pasta](fresh_pasta.md) recipe.

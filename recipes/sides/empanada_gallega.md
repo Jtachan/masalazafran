@@ -28,14 +28,14 @@ Baked as a large, flat rectangle or circle on a baking sheet, it is cut into squ
 
 **Steps**
 
-1. Chop all the onions in thin slices.
+1. Chop all the _onions_ in thin slices.
 2. To caramelize the onions, put them first in the microwave for :clock: 2:30 ~ 3 minutes. Then put them in a pot with a nice amount of oil at medium heat and put salt on them. Cook them for :clock: 10 ~ 15 minutes until brown.
-3. Open the tuna cans, then put the one with oil (oil included) in the pot with the onion. Strain the other can and add it also to the pot. Stir occasionally keeping the fire at medium heat.
-4. Take the peppers and chop them in cubes of half centimeter. Add them to the pot with everything else.
-5. After cooking everything for another :clock: 10 minutes, add sweet paprika powder and cook it for another :clock: 2 ~ 3 minutes.
-6. Add one tomato (in pure) or a little bit of tomato paste with water. Turn of the fire and cook it with the residual heat for another :clock: 5 minutes.
-7. (Optional) Add a litte bit of oregano and stir it for the last time.
-8. Preheat the oven at 180 °C. Meanwhile, prepare the puff pastry sheets by stabbing them with a fork.
+3. Open the _tuna_ cans, then put the one with oil (oil included) in the pot with the onion. Strain the other can and add it also to the pot. Stir occasionally keeping the fire at medium heat.
+4. Take the _peppers_ and chop them in cubes of half centimeter. Add them to the pot with everything else.
+5. After cooking everything for another :clock: 10 minutes, add _sweet paprika powder_ and cook it for another :clock: 2 ~ 3 minutes.
+6. Add one _tomato_ (in pure) or a little bit of tomato paste with water. Turn of the fire and cook it with the residual heat for another :clock: 5 minutes.
+7. (Optional) Add a litte bit of _oregano_ and stir it for the last time.
+8. Preheat the oven at 180 °C. Meanwhile, prepare the _puff pastry_ sheets by stabbing them with a fork.
 9. Fill the sheats, either by filling one by half and folding it or by filling one full and putting the other sheet on top.
 10. Bake the empanada for :clock: 10 minutes. Meanwhile, take 1 egg and stir it.
 11. After the first bake, take the empanada out and paint it with the egg. Bake again for another :clock: 20 ~ 30 minutes.

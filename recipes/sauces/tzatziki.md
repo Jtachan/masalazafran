@@ -26,6 +26,6 @@ The tzatziki is a refreshing Mediterranean sauce, which is great to accompany by
 
 **Steps**
 
-1. Grate the cucumber on a strainer to separate its flesh from its juice.
-2. Chop very fine the garlic and the herbs.
-3. Mix all ingredients in a bowl and adjust the salt to taste.
+1. Grate the _cucumber_ on a strainer to separate its flesh from its juice.
+2. Chop very fine the _garlic_ and the _herbs_.
+3. Mix _all ingredients_ in a bowl and adjust the _salt_ to taste.

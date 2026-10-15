@@ -27,7 +27,7 @@ This is delicious as a dipping sauce or to serve with some potatoes.
 !!! Note
     It is important to have a hand-blender for the recipe.
 
-!!! Hint
+!!! Tip
     This is the same recipe as a mayonnaise if the garlic is skipped.
 
 ---

@@ -30,8 +30,8 @@ Is a recipe made out of stale bread and boiled, but steaming also works nicely.
 
 **Steps**
 
-1. Combine in a bowl the milk, sugar and yeast. Let it sit for :clock: 10 minutes.
-2. Add the whisked egg, salt, the bread cubes and the flour into the mix. Integrate everything well until it forms a dough.
+1. Combine in a bowl the _milk_, _sugar_ and _yeast_. Let it sit for :clock: 10 minutes.
+2. Add the _whisked egg_, _salt_, the _bread cubes_ and the _flour_ into the mix. Integrate everything well until it forms a dough.
 3. Knead the dough for :clock: 3~5 minutes until it becomes slightly more elastic.
 4. Transfer it into an oiled bowl and let it ferment for :clock: 2 hours or until it doubles size.
 5. Separate the dough into small chapata-size pieces or German Brötchen. Let them sit for :clock: 10 minutes before cooking.

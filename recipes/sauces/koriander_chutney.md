@@ -1,9 +1,10 @@
---
+---
 tags:
   - Sauce
   - Indian
   - Asian
   - Vegetarian
+title: Koriander Chutney
 ---
 
 # Koriander-Mint Chutney
@@ -27,5 +28,5 @@ Refreshing and tangy at the same time.
 **Steps**
 
 1. Chop any ingredient into small-like pieces, for the blender to work better.
-2. Put all the ingredients in the blender, with half a glass of water to help blending everything.
+2. Put _all ingredients_ in the blender, with half a glass of water to help blending everything.
 3. Blend until smooth, then taste and adapt the salt to your liking.

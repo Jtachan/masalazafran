@@ -33,9 +33,9 @@ Simple and delicious recipe that actually requires few ingredients.
 
 **Steps**
 
-1. Soak the chickpeas for :clock: 8 hours. Afterward, you can also precook them in a pressure pot.
-2. Put the chicken (skin down) on the pot and cook it at medium-low heat for :clock: 5~7 minutes on each side. We want the chicken to release some fat for flavor, and there is no need for it to fully cook yet.
-3. Prepare all the vegetables: Smash the garlic and chop it in thick pieces, chop the onion in slices, peel the potato and the carrot and chop them in small pieces.
-4. Take the chicken outside the pot, then add oil and put the garlic and the onion. Let it cook for another :clock: 7 minutes at medium-low heat or until golden.
-5. Add the carrot, the potato and put the chicken back in. Fill everything with water until all ingredients are submerge, add salt and pepper, then put the fire to high until it starts boiling.
-6. Meanwhile, chop the lettuce or cabbage in bite-sizes. Add them to the pot, lower the fire to medium-heat and cover it with a lid. Let it cook for :clock: 20 minutes, until the water becomes full of color.
+1. Soak the _chickpeas_ for :clock: 8 hours. Afterward, you can also precook them in a pressure pot.
+2. Put the _chicken_ (skin down) on the pot and cook it at medium-low heat for :clock: 5~7 minutes on each side. We want the chicken to release some fat for flavor, and there is no need for it to fully cook yet.
+3. Prepare all the vegetables: Smash the _garlic_ and chop it in thick pieces, chop the _onion_ in slices, peel the _potato_ and the _carrot_ and chop them in small pieces.
+4. Take the _chicken_ outside the pot, then add _oil_ and put the _garlic_ and the _onion_. Let it cook for another :clock: 7 minutes at medium-low heat or until golden.
+5. Add the _carrot_, the _potato_ and put the _chicken_ back in. Fill everything with water until _all ingredients_ are submerge, add _salt_ and _pepper_, then put the fire to high until it starts boiling.
+6. Meanwhile, chop the _lettuce_ or _cabbage_ in bite-sizes. Add them to the pot, lower the fire to medium-heat and cover it with a lid. Let it cook for :clock: 20 minutes, until the water becomes full of color.
