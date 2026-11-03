@@ -49,6 +49,13 @@
       "annotation": ""
    },
    {
+      "recipe": "Daal Chawal",
+      "section": "main_dish",
+      "nationality": "Indian",
+      "image": "daal_chawal.jpg",
+      "annotation": ""
+   },
+   {
       "recipe": "Empanada Gallega",
       "section": "sides",
       "nationality": "Spanish",

@@ -4,7 +4,7 @@ title: Recipe Index
 
 # All Recipes
 
-Total recipes: 39
+Total recipes: 40
 
 |Recipe|Origin|Section|
 |:---|:---|:---|
@@ -15,6 +15,7 @@ Total recipes: 39
 |[Corn Tortillas](doughs/corn_tortillas.md)|Mexican :flag_mx:|doughs|
 |[Crepe](doughs/crepe.md)|French :flag_fr:|doughs|
 |[Croquetas](sides/croquetas.md)|Spanish :flag_es:|sides|
+|[Daal Chawal](main_dish/daal_chawal.md)|Indian :flag_in:|main_dish|
 |[Empanada Gallega](sides/empanada_gallega.md)|Spanish :flag_es:|sides|
 |[Fermented Chili](preserves/fermented_chili.md)|Indonesian :flag_id:|preserves|
 |[Flan](sweets/flan.md)|Spanish :flag_es:|sweets|
